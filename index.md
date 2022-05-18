@@ -6,4 +6,4 @@ At the moment, I am a doctoral student at the [MIT Media Lab](https://www.media.
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_eo_art.png">](eo_art.md)
 
-[<img style="float: center;" width=800 src="/docs/assets/banner_misc_vis.png">](misc_viz.md)
+[<img style="float: center;" width=800 src="/docs/assets/banner_misc_vis.png">](misc_vis.md)

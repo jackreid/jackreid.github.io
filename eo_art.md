@@ -322,7 +322,7 @@ You can even see variations within a city (here's the Midwest).
 
 ### Week 19 (2021-09-16): Airplane Boneyard
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_16/boneyard.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_16/boneyard.jpg">
 
 Just realized that #gee has some high res images. Foreground are aircraft from Davis-Monthan AFB (rearranged by me), filtered using blue reflectance. Purple is low NIR reflectance, blue is high. Don't know why the different planes have such different NIR reflectances. Background is some edge filtering artifacts from NYC.
 
