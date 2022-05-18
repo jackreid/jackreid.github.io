@@ -86,17 +86,21 @@ Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyp
 
 ### Week 42 (2022-03-17):
 
-<video src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" data-canonical-src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4 controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit">
+<video src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
 
 Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
 
 ### Week 41 (2022-03-10):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_10/.png">
+<video src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
+
+A day late, sorry! I may have fallen in love with @NOAASatellites #GOES imagery. At some point I will diversify my data sources again, but in the meantime here are some false color infrared composites from #GOES17 and #GOES18!
 
 ### Week 40 (2022-03-03):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_03/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_03/purples_8.gif">
+
+Yesterday @NOAASatellites #GOEST successfully launched. Soon it will magically become GOES-18. Today's piece is inspired the GOES-R Fire/Hot Spot dataset in #GEE. These circles are wildfires from late June 2020, scaled and colored based on temperature
 
 ### Week 39 (2022-02-24):
 
