@@ -114,13 +114,13 @@ In anticipation of the imminent launch of #GOEST, I am using @NOAASatellites' #G
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/bvn_100.png">
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/uvn_default.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/unv_default.png">
 
 A pair of images that combine the mean anomalies of nightlights, NDVI, NDBI, and blue band in different ways (ref period is 2015-16, obs period is 2017-2019). Data from @USGSLandsat 8 & VIIRS. Area is just south of Wuhan.
 
 ### Week 37 (2022-02-10):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_2_10/Macacu_mosaic.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_10/Macacu_mosaic.png">
 
 A look at the Área De Proteção Ambiental Da Bacia Do Rio Macacu of the state of Rio de Janeiro in a few different ways, including SRTM elevation, #Sentinel 1 SAR, and @USGSLandsat 8 NDVI.
 
@@ -162,69 +162,224 @@ I tried out a few things this week but ultimately settled on something rather si
 
 ### Week 33 (2022-01-06):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/austin_bcc.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/clouds_123.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/austin_cbv.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/austin_wbw.png">
+
+Messing around with indices (vegetation, water, built up) and clouds in the area of my hometown, Austin, using @USGSLandsat 8.
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/dragon_wvc.png">
+
+Lake Travis looks like a long-tongued dragon serpent, don't it? I spent a lot of time in the southeast corner of it as a child, but never really had a concept of its shape.
+
 
 ### Week 32 (2021-12-30):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/hyperion_15k.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/landsat.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/sent2.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/sent3.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/sent5_uv.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/sentinel1.png">
+
+Happy New Years Week! When scientists use EO images, we often build seamless mosaics that blend images & hide boundaries. These pieces do the opposite, highlighting what different satellite tracks look like. Can you guess what satellite made each image?
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/sent3_partial3.png">
+
+Also, a few weeks back, I shared by desktop image. Well that's now my *former* desktop image as it has been replaced by this Sentinel-3 OLCI mosaic. I just love the texture!
 
 
 ### Week 31 (2021-12-23):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_23/export6.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_23/edge_lowres.png">
+
+Christmas is only a few days off, so here is a Greenland neon Christmas tree made using @polargeospatial's ArcticDEM Mosiac plus some edge detection.
+
+Not very tree-like, but I also liked this intermediate image.
+
+### Week N/A (2021-12-16):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_16/grand_canyon.png">
+
+Too busy at #AGU21 for my weekly #EOArt post, so I am just going to leave the first satellite image that I processed (and my current desktop!) here. It's the Grand Canyon, but I honestly don't remember what instrument or what bands I used. #EarthEngine
+
 ### Week 30 (2021-12-09):
+
+<video width=800 controls>
+  <source type="video/mp4" src="/docs/assets/eo_art/2021_12_09/oklahoma_old_edited.mp4">
+
+  Nothing fancy, just liked using @USGSLandsat 1-3 last week, so ran it back. Since they lacked a blue band, I used a blue palette! The blocky parts are real, that's farmland north of OK City. The other artifacts, well that's just the old Landsat data acting up.
+</video>
+
 
 ### Week 29 (2021-12-02):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_02/fade_looped.gif">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_02/cumulative_compressed.gif">
+
+Got a pair of timelapse pieces for y'all. Both are representations of the Atlantic hurricane tracks from 1880 to 2018 based on NOAA HURDAT2. Some of them spiraled way off to the north out of frame! #earthengine
+
+### Week N/A (2021-11-30):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/fullPark_ndvi_1984-Present_v3.gif">
+
+A fun side project that I was asked to make today. This is @WaltDisneyWorld from 1972 (one year after it opened) to the present. Dark is water and built environment, bright is vegetation. Resolution improves in 1984. First time using @USGSLandsat 1-3!
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/fullPark_vis_1984-Present_v3.gif">
+
+Here's the visual imagery (only going back to 1984)
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/disney.png">
+
+And here's a labeled image so you know what you are looking at. Plenty of other locations of interest of course (including the lakes!) but this was getting busy enough as is.
+
+
 ### Week 28 (2021-11-25):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_25/.png">
+
 
 ### Week 27 (2021-11-18):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_18/.png">
+
+
 ### Week 26 (2021-11-11):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_11/.png">
+
 
 ### Week 25 (2021-11-04):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_04/.png">
+
+
 ### Week 24 (2021-10-28):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_28/.png">
+
 
 ### Week 23 (2021-10-21):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_21/.png">
+
+
 ### Week 22 (2021-10-14):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_14/.png">
+
 
 ### Week 21 (2021-10-07):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_07/.png">
+
+
 ### Week 20 (2021-09-23):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/.png">
+
 
 ### Week 19 (2021-09-16):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_16/.png">
+
+
 ### Week 18 (2021-09-09):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/.png">
+
 
 ### Week 17 (2021-07-15):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_15/.png">
+
+
 ### Week 16 (2021-07-09):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_09/.png">
+
 
 ### Week 15 (2021-07-01):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_01/.png">
+
+
 ### Week 14 (2021-06-24):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_24/.png">
+
 
 ### Week 13 (2021-06-17):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_17/.png">
+
 ### Week 12 (2021-06-10):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_10/.png">
+
 
 ### Week 11 (2021-05-27):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_27/.png">
+
+
 ### Week 10 (2021-05-20):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_20/.png">
+
 
 ### Week 9 (2021-05-13):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_13/.png">
+
+
 ### Week 8 (2021-05-06):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_06/.png">
+
 
 ### Week 7 (2021-04-29):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_29/.png">
+
+
 ### Week 6 (2021-04-22):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_22/.png">
+
 
 ### Week 5 (2021-04-15):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/.png">
+
+
 ### Week 4 (2021-04-09):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_09/.png">
+
 
 ### Week 3 (2021-04-01):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_01/.png">
+
+
 ### Week 2 (2021-03-25):
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_25/.png">
+
+
 ### Week 1 (2021-03-18):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/.png">
