@@ -85,6 +85,9 @@ Definitely recommend checking out the dataset: [https://www.nature.com/articles/
 Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyperspectral PRISMA again, this time broken down using PCA (a first for me) and then combining those principal components (including the not-so-principal ones) in various ways.
 
 ### Week 42 (2022-03-17):
+<video width=800 controls>
+  <source type="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4"
+</video>
 
 <video src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
 
@@ -93,7 +96,7 @@ Messing around with #hyperspectral imagery for the first time. This is an image 
 ### Week 41 (2022-03-10):
 <video width=800 controls>
   <source type="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4"
-
+</video>
 
 <video src="/docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
 
@@ -128,7 +131,14 @@ A look at the Área De Proteção Ambiental Da Bacia Do Rio Macacu of the state 
 
 ### Week 36 (2022-02-03):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/purple-green_med.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/red-blue_english.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/red-blue_hongkong.png">
+
+Three visually distinct pieces made using very similar processes. These were all made using @ESA_EO #Sentinel 1 SAR to identify ships, then processing the results in various ways.
+
 
 ### Week 35 (2022-01-27):
 
