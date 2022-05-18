@@ -9,3 +9,6 @@ One day, however, I wondered what would happen if I intentionally set out to mak
 I post these images on social media, namely [Twitter](https://twitter.com/jack_b_reid) and [Instagram](https://www.instagram.com/jack.b.reid/) each week, so if you see hashtags and @ in the descriptions for these pieces, that's what they refer to.
 
 The primary platform I use for manipulating and generating these images is [Google Earth Engine](https://earthengine.google.com/). You can access the scripts for [each weekly project here](https://code.earthengine.google.com/?accept_repo=users/jackreid/art) (apologies for the lack of comments and overall terrible organization, but this ain't exactly a professional endeavor). Note that some of the assets that I used my not have permissions set properly, so if you can't get anything to run, just reach out via email or twitter. Some of the pieces also involve some python scripts run on my laptop. I haven't organized these into any repository yet. If that's important to you, reach out and I can move that up my list of priorities.
+
+### Week 49 (2022-05-19): Ukraine Nightlights
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_19/Feb_Media_labeled.png">
