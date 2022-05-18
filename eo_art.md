@@ -86,13 +86,16 @@ Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyp
 
 ### Week 42 (2022-03-17):
 
-<video src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
+<video src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
 
 Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
 
 ### Week 41 (2022-03-10):
+<video width=800 controls>
+  <source type="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4"
 
-<video src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
+
+<video src="/docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
 
 A day late, sorry! I may have fallen in love with @NOAASatellites #GOES imagery. At some point I will diversify my data sources again, but in the meantime here are some false color infrared composites from #GOES17 and #GOES18!
 
@@ -104,15 +107,24 @@ Yesterday @NOAASatellites #GOEST successfully launched. Soon it will magically b
 
 ### Week 39 (2022-02-24):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_24/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_24/output_compressed.gif">
+
+In anticipation of the imminent launch of #GOEST, I am using @NOAASatellites' #GOES17 for the first time! This is a timelapse of my birthday in an NDVI-centric false color. Really shows the importance of accounting for lighting conditions in #EO!
 
 ### Week 38 (2022-02-17):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/bvn_100.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/uvn_default.png">
+
+A pair of images that combine the mean anomalies of nightlights, NDVI, NDBI, and blue band in different ways (ref period is 2015-16, obs period is 2017-2019). Data from @USGSLandsat 8 & VIIRS. Area is just south of Wuhan.
 
 ### Week 37 (2022-02-10):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_2_10/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_2_10/Macacu_mosaic.png">
+
+A look at the Área De Proteção Ambiental Da Bacia Do Rio Macacu of the state of Rio de Janeiro in a few different ways, including SRTM elevation, #Sentinel 1 SAR, and @USGSLandsat 8 NDVI.
+
 
 ### Week 36 (2022-02-03):
 
