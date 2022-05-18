@@ -55,7 +55,7 @@ Playing around with data from @openstreetmap this week. These images are based o
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_04_21/c_g_ddi_MiddleEast.png">
 
-Nothing technically fancy this week, just combining some datasets that weren't probably intended to be combined. These use Conservation Science Partners (https://www.csp-inc.org/) ALOS Topographic Diversity & Global Human Modification datasets, plus the @CopernicusEU Global Land Service.
+Nothing technically fancy this week, just combining some datasets that weren't probably intended to be combined. These use Conservation Science Partners ([https://www.csp-inc.org/](https://www.csp-inc.org/)) ALOS Topographic Diversity & Global Human Modification datasets, plus the @CopernicusEU Global Land Service.
 
 
 ### Week 45 (2022-04-14): Luecke Signature Timelapse
@@ -64,8 +64,129 @@ Nothing technically fancy this week, just combining some datasets that weren't p
 
 Perhaps more historical oddity than art this week, but here is a timelapse of the "largest signature in the world," just north of Smithville, Texas. It's about 1km x 4km and has been around since the late 90s.
 
-More info: https://www.atlasobscura.com/places/giant-luecke-signature
+More info: [https://www.atlasobscura.com/places/giant-luecke-signature](https://www.atlasobscura.com/places/giant-luecke-signature)
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_04_14/ind_combo.gif">
 
 I couldn't resist making a psychedelic one using NDVI, the green band, and NDBI though!
+
+### Week 44 (2022-04-07):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_04_07/reversed.gif">
+
+Nothing fancy this week. Just messing around with @Zhou_ISU et al.'s 1992-2020 DSMP-VIIRS nightlights harmonization (on a log scale) along with a changing color palette.
+
+Definitely recommend checking out the dataset: [https://www.nature.com/articles/s41597-020-0510-y](https://www.nature.com/articles/s41597-020-0510-y)
+
+### Week 43 (2022-03-31):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_31/mosaic.png">
+
+Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyperspectral PRISMA again, this time broken down using PCA (a first for me) and then combining those principal components (including the not-so-principal ones) in various ways.
+
+### Week 42 (2022-03-17):
+
+<video src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" data-canonical-src="docs/assets/eo_art/2022_03_17/increment_full_combo.mp4 controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit">
+
+Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
+
+### Week 41 (2022-03-10):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_10/.png">
+
+### Week 40 (2022-03-03):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_03/.png">
+
+### Week 39 (2022-02-24):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_24/.png">
+
+### Week 38 (2022-02-17):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/.png">
+
+### Week 37 (2022-02-10):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_2_10/.png">
+
+### Week 36 (2022-02-03):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/.png">
+
+### Week 35 (2022-01-27):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/.png">
+
+### Week 34 (2022-01-13):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/.png">
+
+### Week 33 (2022-01-06):
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/.png">
+
+### Week 32 (2021-12-30):
+
+
+### Week 31 (2021-12-23):
+
+### Week 30 (2021-12-09):
+
+### Week 29 (2021-12-02):
+
+### Week 28 (2021-11-25):
+
+### Week 27 (2021-11-18):
+
+### Week 26 (2021-11-11):
+
+### Week 25 (2021-11-04):
+
+### Week 24 (2021-10-28):
+
+### Week 23 (2021-10-21):
+
+### Week 22 (2021-10-14):
+
+### Week 21 (2021-10-07):
+
+### Week 20 (2021-09-23):
+
+### Week 19 (2021-09-16):
+
+### Week 18 (2021-09-09):
+
+### Week 17 (2021-07-15):
+
+### Week 16 (2021-07-09):
+
+### Week 15 (2021-07-01):
+
+### Week 14 (2021-06-24):
+
+### Week 13 (2021-06-17):
+
+### Week 12 (2021-06-10):
+
+### Week 11 (2021-05-27):
+
+### Week 10 (2021-05-20):
+
+### Week 9 (2021-05-13):
+
+### Week 8 (2021-05-06):
+
+### Week 7 (2021-04-29):
+
+### Week 6 (2021-04-22):
+
+### Week 5 (2021-04-15):
+
+### Week 4 (2021-04-09):
+
+### Week 3 (2021-04-01):
+
+### Week 2 (2021-03-25):
+
+### Week 1 (2021-03-18):
