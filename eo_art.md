@@ -85,14 +85,14 @@ Definitely recommend checking out the dataset: [https://www.nature.com/articles/
 Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyperspectral PRISMA again, this time broken down using PCA (a first for me) and then combining those principal components (including the not-so-principal ones) in various ways.
 
 ### Week 42 (2022-03-17):
-<video width=800 controls>
+<video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4">
 </video>
 
 Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
 
 ### Week 41 (2022-03-10):
-<video width=800 controls>
+<video width=700 controls>
   <source type="video/mp4" src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4">
 </video>
 
@@ -216,11 +216,11 @@ Too busy at #AGU21 for my weekly #EOArt post, so I am just going to leave the fi
 
 ### Week 30 (2021-12-09):
 
-<video width=800 controls>
+<video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2021_12_09/oklahoma_old_edited.mp4">
-
-  Nothing fancy, just liked using @USGSLandsat 1-3 last week, so ran it back. Since they lacked a blue band, I used a blue palette! The blocky parts are real, that's farmland north of OK City. The other artifacts, well that's just the old Landsat data acting up.
 </video>
+
+Nothing fancy, just liked using @USGSLandsat 1-3 last week, so ran it back. Since they lacked a blue band, I used a blue palette! The blocky parts are real, that's farmland north of OK City. The other artifacts, well that's just the old Landsat data acting up.
 
 
 ### Week 29 (2021-12-02):
@@ -248,42 +248,73 @@ And here's a labeled image so you know what you are looking at. Plenty of other 
 
 ### Week 28 (2021-11-25):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_25/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_25/finger_turkey.png">
+
+Y'all remember painting hand turkeys as a child? Well I've done my best to recreate one in an appropriately jank fashion using the Finger Lakes of NY + Tuz Gölü of Turkey! Colors made by NDWI using @USGSLandsat. Happy Thanksgiving!
 
 
 ### Week 27 (2021-11-18):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_18/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_18/fwr2_30k.png">
+
+I promise that I will do things other than distance maps at some point. This is the Sacramento area, compositing distance from water (MOD44W), distance from 2000-2020 wildfires (Globfire), & roads (TIGER, brightness based on road type, & a focal mean kernel).
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_18/roads.png">
+
+I also like how the road band turned out by itself.
 
 
 ### Week 26 (2021-11-11):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_11/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_11/oae_10k.png">
+
+When you got a hammer, all problems are nails. Doing a distance composite again. This time for the continental US, using distances from peaks, inland water, and bright nightlights.
 
 
 ### Week 25 (2021-11-04):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_04/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_04/mrw_11k.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_04/rwm_11k.png">
+
+Got something more directly inspired by my actual work today. Here we have a portion of the state of Rio de Janeiro, with distances to mangroves (Mapbiomas), bodies of water (GSWE), and major highways (SNV) constituting the RGB bands.
 
 
 ### Week 24 (2021-10-28):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_28/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_28/DutchPumpkin.png">
+
+It's Halloween week so I put together a remote observation jack o'lantern! I made this by mosaicking different parts of the Netherlands with Sentinel 1 SAR imagery. The right eye is Vinkeveense Plassen and the mouth is Rotterdam, for instance. I leave the identification of the remainder as an exercise for the reader.
 
 
 ### Week 23 (2021-10-21):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_21/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_21/purples2_despeckle.gif">
 
+This one is based on a timelapse of the White Nile River, just north of Rabak, in 3 month chunks from isolated fall of 2015 through winter of 2020, using the @USGSLandsat 8 water flag. Shoutout to @jstnbraaten, whose tutorial inspired this.
 
 ### Week 22 (2021-10-14):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_14/.png">
+<video width=700 controls>
+  <source type="video/mp4" src="/docs/assets/eo_art/2021_10_14/fire_currents.mp4">
+</video>
+
+Another video! This has a foreground of large fires in the western US at a 6 month timescale as detected by the Aqua MYD14A2.006. Background is HYCOM ocean temps for North Atlantic over the course of a week.
+
+Definitely dissatisfied with the relative slowness of the background relative to the foreground. A lesson learned.
 
 
 ### Week 21 (2021-10-07):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_07/.png">
+<video width=700 controls>
+  <source type="video/mp4" src="/docs/assets/eo_art/2021_10_07/fourier.mp4">
+</video>
+
+For this one, I took @NASA_Landsat imagery of farmland around Clinton, IL in 2 month chunks from 2016-2018; computed NDVI to highlight the vegetation growth cycle; and then took the Fourier transform of each image.
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_07/ndvi.gif">
+
+And here are the original NDVI images!
 
 
 ### Week 20 (2021-09-23):
