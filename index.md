@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Howdy!
 
-You can use the [editor on GitHub](https://github.com/jackreid/jackreid.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a multidisclinary researcher who draws from remote observation, systems engineering, and philosophy to try and make this world of ours a little bit better and more sustainable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the moment, I am a doctoral student at the [MIT Media Lab](https://www.media.mit.edu/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). I've bounced around a number of fields and institutions to end up here, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
 
 ### Markdown
 
