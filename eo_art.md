@@ -70,7 +70,7 @@ More info: [https://www.atlasobscura.com/places/giant-luecke-signature](https://
 
 I couldn't resist making a psychedelic one using NDVI, the green band, and NDBI though!
 
-### Week 44 (2022-04-07):
+### Week 44 (2022-04-07): DSMP-VIIRS Harmonization
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_04_07/reversed.gif">
 
@@ -78,39 +78,39 @@ Nothing fancy this week. Just messing around with @Zhou_ISU et al.'s 1992-2020 D
 
 Definitely recommend checking out the dataset: [https://www.nature.com/articles/s41597-020-0510-y](https://www.nature.com/articles/s41597-020-0510-y)
 
-### Week 43 (2022-03-31):
+### Week 43 (2022-03-31): PRISMA Principal Component Analysis
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_31/mosaic.png">
 
 Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyperspectral PRISMA again, this time broken down using PCA (a first for me) and then combining those principal components (including the not-so-principal ones) in various ways.
 
-### Week 42 (2022-03-17):
+### Week 42 (2022-03-17): PRISMA Bandlapse
 <video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4">
 </video>
 
 Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
 
-### Week 41 (2022-03-10):
+### Week 41 (2022-03-10): GOES Gems
 <video width=700 controls>
   <source type="video/mp4" src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4">
 </video>
 
 A day late, sorry! I may have fallen in love with @NOAASatellites #GOES imagery. At some point I will diversify my data sources again, but in the meantime here are some false color infrared composites from #GOES17 and #GOES18!
 
-### Week 40 (2022-03-03):
+### Week 40 (2022-03-03): GOES Fire Timelapse
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_03_03/purples_8.gif">
 
 Yesterday @NOAASatellites #GOEST successfully launched. Soon it will magically become GOES-18. Today's piece is inspired the GOES-R Fire/Hot Spot dataset in #GEE. These circles are wildfires from late June 2020, scaled and colored based on temperature
 
-### Week 39 (2022-02-24):
+### Week 39 (2022-02-24): GOES NDVI Timelapse
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_24/output_compressed.gif">
 
 In anticipation of the imminent launch of #GOEST, I am using @NOAASatellites' #GOES17 for the first time! This is a timelapse of my birthday in an NDVI-centric false color. Really shows the importance of accounting for lighting conditions in #EO!
 
-### Week 38 (2022-02-17):
+### Week 38 (2022-02-17): Wuhan Mean Anomalies
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_17/bvn_100.png">
 
@@ -118,14 +118,14 @@ In anticipation of the imminent launch of #GOEST, I am using @NOAASatellites' #G
 
 A pair of images that combine the mean anomalies of nightlights, NDVI, NDBI, and blue band in different ways (ref period is 2015-16, obs period is 2017-2019). Data from @USGSLandsat 8 & VIIRS. Area is just south of Wuhan.
 
-### Week 37 (2022-02-10):
+### Week 37 (2022-02-10): Macacu Branches
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_10/Macacu_mosaic.png">
 
 A look at the Área De Proteção Ambiental Da Bacia Do Rio Macacu of the state of Rio de Janeiro in a few different ways, including SRTM elevation, #Sentinel 1 SAR, and @USGSLandsat 8 NDVI.
 
 
-### Week 36 (2022-02-03):
+### Week 36 (2022-02-03): SAR Colors
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_02_03/purple-green_med.png">
 
@@ -136,7 +136,7 @@ A look at the Área De Proteção Ambiental Da Bacia Do Rio Macacu of the state 
 Three visually distinct pieces made using very similar processes. These were all made using @ESA_EO #Sentinel 1 SAR to identify ships, then processing the results in various ways.
 
 
-### Week 35 (2022-01-27):
+### Week 35 (2022-01-27): Mapbiomas Changes
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/132_2.png">
 
@@ -148,7 +148,7 @@ Three visually distinct pieces made using very similar processes. These were all
 
 These are some visualizations of land cover change in different parts of Brazil over the period 1985 - 2020, using the wonderful @mapbiomas dataset (which is directly available on #GoogleEarthEngine). Definitely recommend checking it out if you work in that part of the world.
 
-### Week 34 (2022-01-13):
+### Week 34 (2022-01-13): Nightlights Green
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/caucus.png">
 
@@ -160,7 +160,7 @@ These are some visualizations of land cover change in different parts of Brazil 
 
 I tried out a few things this week but ultimately settled on something rather simple: log-scale of VIIRS nightlights (to bring out the detail) + a color palette that I like. These are from a few different places around the world, some more obvious than others.
 
-### Week 33 (2022-01-06):
+### Week 33 (2022-01-06): Austin Indices & Clouds
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_06/austin_bcc.png">
 
@@ -177,7 +177,7 @@ Messing around with indices (vegetation, water, built up) and clouds in the area
 Lake Travis looks like a long-tongued dragon serpent, don't it? I spent a lot of time in the southeast corner of it as a child, but never really had a concept of its shape.
 
 
-### Week 32 (2021-12-30):
+### Week 32 (2021-12-30): Satellite Tracks
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_30/hyperion_15k.png">
 
@@ -198,7 +198,7 @@ Happy New Years Week! When scientists use EO images, we often build seamless mos
 Also, a few weeks back, I shared by desktop image. Well that's now my *former* desktop image as it has been replaced by this Sentinel-3 OLCI mosaic. I just love the texture!
 
 
-### Week 31 (2021-12-23):
+### Week 31 (2021-12-23): Neon Christmas Tree
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_23/export6.png">
 
@@ -208,13 +208,9 @@ Christmas is only a few days off, so here is a Greenland neon Christmas tree mad
 
 Not very tree-like, but I also liked this intermediate image.
 
-### Week N/A (2021-12-16):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_16/grand_canyon.png">
 
-Too busy at #AGU21 for my weekly #EOArt post, so I am just going to leave the first satellite image that I processed (and my current desktop!) here. It's the Grand Canyon, but I honestly don't remember what instrument or what bands I used. #EarthEngine
-
-### Week 30 (2021-12-09):
+### Week 30 (2021-12-09): Oklahoma Old Landsat
 
 <video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2021_12_09/oklahoma_old_edited.mp4">
@@ -223,7 +219,7 @@ Too busy at #AGU21 for my weekly #EOArt post, so I am just going to leave the fi
 Nothing fancy, just liked using @USGSLandsat 1-3 last week, so ran it back. Since they lacked a blue band, I used a blue palette! The blocky parts are real, that's farmland north of OK City. The other artifacts, well that's just the old Landsat data acting up.
 
 
-### Week 29 (2021-12-02):
+### Week 29 (2021-12-02): Hurricane Tracks Timelapse
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_12_02/fade_looped.gif">
 
@@ -231,29 +227,15 @@ Nothing fancy, just liked using @USGSLandsat 1-3 last week, so ran it back. Sinc
 
 Got a pair of timelapse pieces for y'all. Both are representations of the Atlantic hurricane tracks from 1880 to 2018 based on NOAA HURDAT2. Some of them spiraled way off to the north out of frame! #earthengine
 
-### Week N/A (2021-11-30):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/fullPark_ndvi_1984-Present_v3.gif">
-
-A fun side project that I was asked to make today. This is @WaltDisneyWorld from 1972 (one year after it opened) to the present. Dark is water and built environment, bright is vegetation. Resolution improves in 1984. First time using @USGSLandsat 1-3!
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/fullPark_vis_1984-Present_v3.gif">
-
-Here's the visual imagery (only going back to 1984)
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_30/disney.png">
-
-And here's a labeled image so you know what you are looking at. Plenty of other locations of interest of course (including the lakes!) but this was getting busy enough as is.
-
-
-### Week 28 (2021-11-25):
+### Week 28 (2021-11-25): Thanksgiving Finger Turkey
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_25/finger_turkey.png">
 
 Y'all remember painting hand turkeys as a child? Well I've done my best to recreate one in an appropriately jank fashion using the Finger Lakes of NY + Tuz Gölü of Turkey! Colors made by NDWI using @USGSLandsat. Happy Thanksgiving!
 
 
-### Week 27 (2021-11-18):
+### Week 27 (2021-11-18): Sacramento Distances
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_18/fwr2_30k.png">
 
@@ -264,14 +246,14 @@ I promise that I will do things other than distance maps at some point. This is 
 I also like how the road band turned out by itself.
 
 
-### Week 26 (2021-11-11):
+### Week 26 (2021-11-11): US Distances
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_11/oae_10k.png">
 
 When you got a hammer, all problems are nails. Doing a distance composite again. This time for the continental US, using distances from peaks, inland water, and bright nightlights.
 
 
-### Week 25 (2021-11-04):
+### Week 25 (2021-11-04): Rio de Janeiro Distances
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_11_04/mrw_11k.png">
 
@@ -280,20 +262,20 @@ When you got a hammer, all problems are nails. Doing a distance composite again.
 Got something more directly inspired by my actual work today. Here we have a portion of the state of Rio de Janeiro, with distances to mangroves (Mapbiomas), bodies of water (GSWE), and major highways (SNV) constituting the RGB bands.
 
 
-### Week 24 (2021-10-28):
+### Week 24 (2021-10-28): Dutch Pumpkin
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_28/DutchPumpkin.png">
 
 It's Halloween week so I put together a remote observation jack o'lantern! I made this by mosaicking different parts of the Netherlands with Sentinel 1 SAR imagery. The right eye is Vinkeveense Plassen and the mouth is Rotterdam, for instance. I leave the identification of the remainder as an exercise for the reader.
 
 
-### Week 23 (2021-10-21):
+### Week 23 (2021-10-21): River Timelapse
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2021_10_21/purples2_despeckle.gif">
 
 This one is based on a timelapse of the White Nile River, just north of Rabak, in 3 month chunks from isolated fall of 2015 through winter of 2020, using the @USGSLandsat 8 water flag. Shoutout to @jstnbraaten, whose tutorial inspired this.
 
-### Week 22 (2021-10-14):
+### Week 22 (2021-10-14): Fire Currents
 
 <video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2021_10_14/fire_currents.mp4">
@@ -304,7 +286,7 @@ Another video! This has a foreground of large fires in the western US at a 6 mon
 Definitely dissatisfied with the relative slowness of the background relative to the foreground. A lesson learned.
 
 
-### Week 21 (2021-10-07):
+### Week 21 (2021-10-07): Fourier Timelapse
 
 <video width=700 controls>
   <source type="video/mp4" src="/docs/assets/eo_art/2021_10_07/fourier.mp4">
@@ -317,100 +299,182 @@ For this one, I took @NASA_Landsat imagery of farmland around Clinton, IL in 2 m
 And here are the original NDVI images!
 
 
-### Week 20 (2021-09-23):
+### Week 20 (2021-09-23): Population Nightlights
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/pnd_01.png">
 
+Using demographic data for the first time in one of these art projects! Combined SEDAC's GPWv411 population with VIIRS nightlights. Blues mean nightlights are outshine population, reds indicate population is more dense than nightlights (for some comparison factor)
 
-### Week 19 (2021-09-16):
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/alaska.png">
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_16/.png">
+And I didn't forget those not in continental US! Here is Alaska, where the combination of snow, auroras, and low population mean most of the northern portion of the state is brighter than it is populous.
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/hawaii.png">
 
-### Week 18 (2021-09-09):
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/puertorico.png">
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/.png">
+Hawaii and Puerto Rico meanwhile have relatively few nightlights despite high populations (PR more than HA).
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_23/zoom.png">
 
-### Week 17 (2021-07-15):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_15/.png">
-
-
-### Week 16 (2021-07-09):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_09/.png">
+You can even see variations within a city (here's the Midwest).
 
 
-### Week 15 (2021-07-01):
+### Week 19 (2021-09-16): Airplane Boneyard
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_01/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_16/boneyard.png">
 
-
-### Week 14 (2021-06-24):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_24/.png">
+Just realized that #gee has some high res images. Foreground are aircraft from Davis-Monthan AFB (rearranged by me), filtered using blue reflectance. Purple is low NIR reflectance, blue is high. Don't know why the different planes have such different NIR reflectances. Background is some edge filtering artifacts from NYC.
 
 
-### Week 13 (2021-06-17):
+### Week 18 (2021-09-09): Global Surface Tempreature
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_17/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/global.png">
 
-### Week 12 (2021-06-10):
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/global2_on_black.png">
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_10/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/centralasia.png">
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_09_09/global1_on_black.png">
 
-### Week 11 (2021-05-27):
+A look at surface temperatures (Jan-Jul diff, Apr-Oct diff, and annual mean). Not entirely satisfied with the oceans (lower resolution than land) or the overall projection. Using MODIS-based OpenLandMap for land and NOAA CDR OISST for ocean.
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_27/.png">
+### Week 17 (2021-07-15): Low Lands
 
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_15/low_lands.png">
 
-### Week 10 (2021-05-20):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_20/.png">
-
-
-### Week 9 (2021-05-13):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_13/.png">
+This one is an SRTM composite of several areas from around the world with elevation below sea level (places like the Dead Sea valley and Death Valley), overlaid on a background of Solitario, Texas.
 
 
-### Week 8 (2021-05-06):
+### Week 16 (2021-07-09): Fourier
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_06/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_09/fourier.png">
 
-
-### Week 7 (2021-04-29):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_29/.png">
+A day late. This time I took the NDVI, NDBI, and NDSI channels from Week 14, did a 2D fourier transform on each, applied RGB colormaps to each, and arranged them to get this result.
 
 
-### Week 6 (2021-04-22):
+### Week 15 (2021-07-01): Airports Composite
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_22/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_07_01/airports.png">
 
-
-### Week 5 (2021-04-15):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/.png">
+Not sure what to call this one. Its an amalgam of several airports from around the world as seen in Sentinel-2 SAR (can you identify them?), with a background of Landsat 8 IR. The gaps are runways. Kind of looks like a samurai helmet in profile.
 
 
-### Week 4 (2021-04-09):
+### Week 14 (2021-06-24): Egmont Normalized
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_09/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_24/egmont_s_b_v_8_1000.gif">
 
-
-### Week 3 (2021-04-01):
-
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_01/.png">
+Made this yesterday but forgot to post it. We got a right ol' Eye of Sauron in New Zealand! This is the surprisingly circular Egmont National Park, as seen in a combination of NDVI, NDBI, and NDSI from 2013-2021.
 
 
-### Week 2 (2021-03-25):
+### Week 13 (2021-06-17): Norway Gradient Elevation
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_25/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_17/norway_s_m_d_zoom.png">
+
+Got a weird one. The texture + resolution is giving me real Cronenberg Videodrome vibrations. It's north Agder, Norway in a mix of SRTM elevation and
+@USGSLandsat panchrom gradient. I wanted to do Sognefjord, but it's at 61°N and SRTM caps out at 60°N, sadly.
+
+### Week 12 (2021-06-10): Pride
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_10/california_trans.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_10/bhutan_pride_2.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_06_10/carolina_bi.png">
+
+Was off last week for traveling. Back with a set of pride-themed pieces. First is Landsat 8 NDVI of agricultural land just west of Tulare, California. Second is SRTM elevation of Bhutan. Third is the coast of Maryland & North Carolina in thermal IR from ASTER.
+
+### Week 11 (2021-05-27): Global Mountains
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_27/global_mountains_v2.png">
+
+I decided to revisit the Week 5 process and expand it to a global version, highlighting peaks over 2000m and placing them on a background of Sahara Desert elevation. The Himalayas are the bright spot on the right, the Andes are the spot in the bottom left.
+
+### Week 10 (2021-05-20): Sahara Elevation Rainbow
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_20/Tabelbala_Rainbow_2sig.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_20/HassiBelGuebour_Rainbow_2sig.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_20/Sahara_Rainbow_2sig.png">
+
+I was feeling something colorful and simple today, so here is SRTM elevation maps of the Tabelbala area of Algeria, the Amenas district of Algeria, and the Morocco-Alegeria border region stretching between Tabelbala and Errachidida.
 
 
-### Week 1 (2021-03-18):
+### Week 9 (2021-05-13): English Channel Ships
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_13/english_channel_purple_looped_compressed2.gif">
+
+Learning to use the GEE Python API for the first time. Used it to make this cumulative timelapse of ships in the English Channel (detected using Sentinel-1's SAR) over a still falsecolor composite of Sentinel-2 visual imagery.
+
+### Week 8 (2021-05-06): NDBI Timelapse
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_06/Philidelphia_median_fade.gif">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_05_06/Bozhou_min_fade.gif">
+
+Still figuring out how to manipulate videos. This time we have annual composites of the Normalized Difference Built-Up Index using Landsat 8 for Philadelphia and for Chengxizhen, China. Can't say I am satisfied with how they turned out, but I'm learning.
+
+
+### Week 7 (2021-04-29): Ocean Currents
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_29/combo_short3_compress.gif">
+
+Nothing fancy this week, just experimenting with video for the first time. I used some of the water temperature at three depths from HYCOM, looking at an area just east of Japan. Short & compressed version below. Longer,uncompressed here: https://drive.google.com/file/d/1T1LpAw7py4N3CHQ66o4eCLuy6ELcjNgK/view?usp=sharing
+
+
+### Week 6 (2021-04-22): China Nightlight Edges
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_22/edges_blue_green_gradient.png">
+
+Just one image this time, which was generated using some filtering and edge detection on the VIIRS nightlights monthly composites. Location is in the Hunan/Anhui region of China.
+
+
+### Week 5 (2021-04-15): Andes Elevation
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/elevation_grays.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/srtm_slope_grays.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/srtm_derivative_xyy.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_15/stars_black_blue_blurred.png">
+
+A collection based on SRTM elevation data, all of the Chilean Andes. 1) Grayscale of elevation on the eastern edge of the mountains. 2) Elevation gradient magnitude. 3) Gradient with R=dx, G=dy, B=dy. 4) Elevation with some local maxima (peaks) shown as dots.
+
+
+### Week 4 (2021-04-09): Edge Filtering
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_09/Purple_zoom1.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_09/mag_dir_greens_blues.png">
+
+Two images of southern Tibet based on
+@USGSLandsat 8's panchromatic band. The first is a visualization of gradient magnitude. The second is a combination of gradient magnitude and direction.
+
+### Week 3 (2021-04-01): Temporal Nightlights in San Antonio & Basra
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_01/SA3_RedBlue_and_Paired.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_04_01/Basra3_Magma_and_Reverse.png">
+
+Got a pair of diptychs here based on the VIIRS DNB monthly composites. Colors indicate the first time bright lights above a threshold showed up. First is San Antonio area showing what I assume are natural gas wells. The second is centered on Basra, Iraq.
+
+
+### Week 2 (2021-03-25): Malaca Ships
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_25/malaca_ships_sar.png">
+
+A Sentinel-1 composite from 2014-2021, pulling out the bright objects (primarily ships) in the Strait of Malacca. I messed around with adding backgrounds to it (thermal IR, coastal blues, etc.) and filtering out the non-ship objects, but decided it is best as is
+
+### Week 1 (2021-03-18): Sundarban
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/1_greenpurple_2_NDVI_4.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/2_yellowultra_4_3_1.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/3_blues_1_2_3.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2021_03_18/4_fire_5_6_7.png">
+
+I decided to take some time each Thursday and make some pretty satellite images unrelated to research. Thought that I would start simple, so here are some Landsat 8 false color composites of the Sundarbans, on the border of India and Bangladesh.
