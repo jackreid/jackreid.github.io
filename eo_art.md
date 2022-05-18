@@ -86,7 +86,7 @@ Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyp
 
 ### Week 42 (2022-03-17):
 <video width=800 controls>
-  <source type="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4"
+  <source type="video/mp4" src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4"
 </video>
 
 <video src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
@@ -95,7 +95,7 @@ Messing around with #hyperspectral imagery for the first time. This is an image 
 
 ### Week 41 (2022-03-10):
 <video width=800 controls>
-  <source type="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4"
+  <source type="video/mp4" src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4"
 </video>
 
 <video src="/docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
@@ -142,7 +142,15 @@ Three visually distinct pieces made using very similar processes. These were all
 
 ### Week 35 (2022-01-27):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/132_2.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/113_6.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/132_3.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_27/213_5.png">
+
+These are some visualizations of land cover change in different parts of Brazil over the period 1985 - 2020, using the wonderful @mapbiomas dataset (which is directly available on #GoogleEarthEngine). Definitely recommend checking it out if you work in that part of the world.
 
 ### Week 34 (2022-01-13):
 
