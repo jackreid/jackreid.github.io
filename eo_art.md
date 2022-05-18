@@ -11,4 +11,35 @@ I post these images on social media, namely [Twitter](https://twitter.com/jack_b
 The primary platform I use for manipulating and generating these images is [Google Earth Engine](https://earthengine.google.com/). You can access the scripts for [each weekly project here](https://code.earthengine.google.com/?accept_repo=users/jackreid/art) (apologies for the lack of comments and overall terrible organization, but this ain't exactly a professional endeavor). Note that some of the assets that I used my not have permissions set properly, so if you can't get anything to run, just reach out via email or twitter. Some of the pieces also involve some python scripts run on my laptop. I haven't organized these into any repository yet. If that's important to you, reach out and I can move that up my list of priorities.
 
 ### Week 49 (2022-05-19): Ukraine Nightlights
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_19/Feb_Media_labeled.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_19/Feb_Median_labeled.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_19/Mar_Median_labeled.png">
+
+Took a week off due to family visiting. This week is showing median decreases (shown in pink-red) in nightlights (yellow) in Ukraine during the first two months of the invasion, using the @NASAEarthData VIIRS VNP46A2 dataset.
+
+### Week 48 (2022-05-05): Farm Comparison
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/poland_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/us_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/china_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/australia_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/brazil_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/cote-d-ivoire_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/india_ndvi.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_05/westIndia_ndvi.png">
+
+Here are 8 @USGSLandsat  8 NDVI images of agricultural land from countries around the world (can you guess which is which?), all at the same scale. Really highlights the variation in land practices & potential dangers of training a ML model on just one region.
+
+
+### Week 47 (2022-04-28): Texas Open Street Map Distances
+
+### Week 46 (2022-04-21): ALOS & Landcover
+
+### Week 45 (2022-04-14): Luecke Signature Timelapse
