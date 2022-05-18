@@ -86,19 +86,15 @@ Back after missing a week due to Atlanta Academy. Here is the @ASI_spazio's #hyp
 
 ### Week 42 (2022-03-17):
 <video width=800 controls>
-  <source type="video/mp4" src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4"
+  <source type="video/mp4" src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4">
 </video>
-
-<video src="/docs/assets/eo_art/2022_03_17/increment_full_combo.mp4" controls="controls style:"max-width: 800px">
 
 Messing around with #hyperspectral imagery for the first time. This is an image of Midongy Du Sud National Park in Madagascar from @ASI_spazio's PRISMA satellite, iterating through various false color combos of its ~240 VNIR & SWIR bands.
 
 ### Week 41 (2022-03-10):
 <video width=800 controls>
-  <source type="video/mp4" src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4"
+  <source type="video/mp4" src="docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4">
 </video>
-
-<video src="/docs/assets/eo_art/2022_03_10/editing-2500-6000.mp4" controls="controls style:"max-width: 800px">
 
 A day late, sorry! I may have fallen in love with @NOAASatellites #GOES imagery. At some point I will diversify my data sources again, but in the meantime here are some false color infrared composites from #GOES17 and #GOES18!
 
@@ -154,7 +150,15 @@ These are some visualizations of land cover change in different parts of Brazil 
 
 ### Week 34 (2022-01-13):
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/caucus.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/chongqing1.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/india.png">
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_01_13/northern_india.png">
+
+I tried out a few things this week but ultimately settled on something rather simple: log-scale of VIIRS nightlights (to bring out the detail) + a color palette that I like. These are from a few different places around the world, some more obvious than others.
 
 ### Week 33 (2022-01-06):
 
