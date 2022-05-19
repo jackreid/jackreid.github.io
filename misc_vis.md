@@ -40,7 +40,7 @@ Here's Austin. Assuming that these differences are actually the blackouts, they 
 
 <img style="float: center;" width=800 src="/docs/assets/misc_vis/2_Austin.png">
 
-Here's Houston, which seems to be much darker than Austin was.
+Here's Houston, which seems to be much darker than Austin was. Notably, this data matches [the analysis that NASA posted a week later](https://earthobservatory.nasa.gov/images/147941/extreme-winter-weather-causes-us-blackouts#), so evidently I knew what I was doing here for once.
 
 <img style="float: center;" width=800 src="/docs/assets/misc_vis/4_Houston.png">
 
