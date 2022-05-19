@@ -60,6 +60,6 @@ One of the key components of a thesis proposal is the research questions/deliver
 
 <img style="float: center;" width=800 src="/docs/assets/doctoral_process/research_questions.png">
 
-### Doctoral Thesis & Defenese
+### Doctoral Thesis & Defense
 
 *Still to come*
