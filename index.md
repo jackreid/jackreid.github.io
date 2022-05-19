@@ -22,7 +22,7 @@ Here's the various social media platforms that I am on. Note that I don't check 
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_rio_mangroves.jpg">](rio_mangroves.md)
 
-[<img style="float: center;" width=800 src="/docs/assets/banner_banner_madagascar_flooding.png">](madagascar_flooding.md)
+[<img style="float: center;" width=800 src="/docs/assets/banner_madagascar_flooding.png">](madagascar_flooding.md)
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_space_sustainability.png">](space_sustainability.md)
 
