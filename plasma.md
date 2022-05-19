@@ -12,7 +12,7 @@ Non-thermal plasmas, particularly helium, are being experimented with for simult
 
 <img style="float: center;" width=800 src="/docs/assets/archived_projects/plasma/drawing2.png">
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/plasma/insulated_hangle.jpg">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/plasma/insulated_handle.jpg">
 
 ## Plasma Air Sterilizer
 
