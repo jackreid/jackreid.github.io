@@ -29,3 +29,5 @@ Here's the various social media platforms that I am on. Note that I don't check 
 [<img style="float: center;" width=800 src="/docs/assets/banner_eo_art.png">](eo_art.md)
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_misc_vis.png">](misc_vis.md)
+
+[<img style="float: center;" width=800 src="/docs/assets/banner_archived_projects.jpg">](archived_projects.md)
