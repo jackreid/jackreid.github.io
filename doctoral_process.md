@@ -38,13 +38,28 @@ The final written exam was my Primary Area, Socio-environmental-technical System
 
 <img style="float: center;" width=800 src="/docs/assets/doctoral_process/Graphic_1.png">
 
-<img style="float: center;" width=800 src="/docs/assets/doctoral_process/Graphic_2_Development.png">
+<img style="float: center;" width=800 src="/docs/assets/doctoral_process/Graphic_2_Development.jpg">
 
-<img style="float: center;" width=800 src="/docs/assets/doctoral_process/Loops_Combined.png">
+<img style="float: center;" width=800 src="/docs/assets/doctoral_process/Loops_Combined_background.png">
 
+With each of the written components done, the General Exams are concluded with a joint oral exam, in which the student presents on what they have learned and the committee members (and anyone else from the Media Lab who wants to show up) quizzes them. This is typically held in person in a common area in the lab, but pandemic restrictions required mine to be held online. My slides are [available here](/docs/assets/doctoral_process/OralExamPresentation.pdf) and a recording of the presentation and question period can be seen below.
 
-*Originally published in The Space Review in March 2022*
+[<img style="float: center;" width=800 src="/docs/assets/doctoral_process/oral_slides.png">](https://drive.google.com/file/d/15B79h6r_piAxfwWGTFplIaSmOBTBx0HZ/view?usp=sharing)
 
-A short piece challenging the Frontier metaphor for space and substituting it with one inspired by William James, which has far more mixed implications.
+Sometimes the General Exam Committee may require that additional work is required to demonstrate that the student actually learned the required material. Sometimes this can mean taking a particular class or even re-doing their oral exam entirely. In my case, one of my committee members wanted me to clearly explain where and how the term public participation geographic information system (PPGIS) arose from, since I bungled a question in this vein during the exam. To satisfy this, I wrote up [a brief history of the origins of the subfield](/docs/assets/doctoral_process/PPGIS_Followup.pdf).
 
-Available: [https://www.thespacereview.com/article/4345/1](https://www.thespacereview.com/article/4345/1)
+### Doctoral Thesis Proposal/Critique
+
+*Winter 2021/2022*
+
+With the General Exams out of the way, the next step in the PhD process is to clearly develop a proposal for the dissertation work and to present it to one's thesis committee and to the Media Lab as a whole. This involves both a written document of variable length and a presentation. My written proposal is [available here](/docs/assets/assets.pdf) (green text indicates some later revisions). It should be pretty clear how my General Exams directly fed into this piece. Similarly, the presentation slides were developed out of the oral component of my General Exams.
+
+[<img style="float: center;" width=800 src="/docs/assets/doctoral_process/doctoral_blurb.png">](/docs/assets/doctoral_process/Proposal_Critique_Presentation.pdf)
+
+One of the key components of a thesis proposal is the research questions/deliverables, as this define what you need to complete in order to finish the doctoral program.
+
+<img style="float: center;" width=800 src="/docs/assets/doctoral_process/research_questions.png">
+
+### Doctoral Thesis & Defenese
+
+*Still to come*
