@@ -16,6 +16,10 @@ Here's the various social media platforms that I am on. Note that I don't check 
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_doctoral_process.png">](doctoral_process.md)
 
+[<img style="float: center;" width=800 src="/docs/assets/banner_vida.png">](vida.md)
+
+[<img style="float: center;" width=800 src="/docs/assets/banner_evdt.png">](evdt.md)
+
 [<img style="float: center;" width=800 src="/docs/assets/banner_space_sustainability.png">](space_sustainability.md)
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_eo_art.png">](eo_art.md)
