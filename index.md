@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm a multidisclinary researcher who draws from remote observation, systems engineering, and philosophy to try and make this world of ours a little bit better and more sustainable.
+I'm a multidisciplinary researcher who draws from remote observation, systems engineering, and philosophy to try and make this world of ours a little bit better and more sustainable.
 
 At the moment, I am a doctoral student at the [MIT Media Lab](https://www.media.mit.edu/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). I've bounced around a number of fields and institutions to end up here, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
 
@@ -19,6 +19,10 @@ Here's the various social media platforms that I am on. Note that I don't check 
 [<img style="float: center;" width=800 src="/docs/assets/banner_vida.png">](vida.md)
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_evdt.png">](evdt.md)
+
+[<img style="float: center;" width=800 src="/docs/assets/banner_rio_mangroves.jpg">](rio_mangroves.md)
+
+[<img style="float: center;" width=800 src="/docs/assets/banner_banner_madagascar_flooding.png">](madagascar_flooding.md)
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_space_sustainability.png">](space_sustainability.md)
 
