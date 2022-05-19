@@ -2,11 +2,11 @@
 
 *Summer 2015*
 
-During the summer between my undergraduate at Texas A&M University and my graduate program at MIT, I worked at Sandia National Laboratories in the Solid Mechanics & Shock Physics Department. While I worked on several projects that summer, the primary one (and the only one approved for public release) focused on the development of an algorithm to generate a shake table procedure that would, as close as possible, generate target shock responses in multiple different parts of the test article. A poster version of this page is [available here](/docs/assets/archived_projects/shake/SymposiumPoster_2015_7_16_postrevision.pdf).
+During the summer between my undergraduate at Texas A&M University and my graduate program at MIT, I worked at Sandia National Laboratories in the Solid Mechanics & Shock Physics Department. While I worked on several projects that summer, the primary one (and the only one approved for public release) focused on the development of an algorithm to generate a shake table procedure that would, as close as possible, generate target shock responses in multiple different parts of the test article. A poster version of this page is [available here](/docs/assets/archived_projects/shock/SymposiumPoster_2015_7_16_postrevision.pdf).
 
 Shaker shocks are designed to match real-world shock intensity and are often applied at the point of interest on a component. However, it is sometimes infeasible to apply the shock at the point of interest and often there are multiple points of interest on the same component. Since the shaker can only apply a single input signal, while in application the component is exposed to multiple simultaneous excitation signals and different boundary conditions, the shaker cannot induce a precise desired shock response at each point of interest simultaneously. The purpose of this project is to create an optimization algorithm that can create a “best-fit” shaker input to induce desired shock response spectrums (SRSs) at an arbitrary number of points of interest with unique transfer functions based on a user-supplied weighting.
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/shake/rocket.png">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/shock/rocket.png">
 
 ### Background
 
@@ -14,11 +14,11 @@ A former Sandian, David Smallwood, created an optimization algorithm for develop
 
 This method has several limitations, chiefly that can only optimize for a single target point of interest at a time, and assumes that the shaker and this point of interest are coincident, meaning that there is no transfer function between shaker behavior and target response. This project seeks to overcome these limitations and allow for multiple points of interest, with importance weighted by the user, and different transfer functions to each point of interest (Figure 1, Figure 2B).
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/shake/graphs.png">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/shock/graphs.png">
 
 ### Sum of Decaying Sines
 
-<img style="float: center;" width=300 src="/docs/assets/archived_projects/shake/equation1.png">
+<img style="float: center;" width=300 src="/docs/assets/archived_projects/shock/equation1.png">
 
 Where 𝐴 is the initial amplitude of the tone, 𝜆 is the decay rate, 𝑤 is the frequency in radians, and 𝜙 is the delay. This optimization algorithm requires the user to select the frequencies, decays, and the delays. The algorithm then optimizes the amplitudes, while maintaining the sign of each amplitude for shaker table stability purposes.
 
@@ -26,7 +26,7 @@ This equation and general concept holds for both the original algorithm and the 
 
 ### Error Definition
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/shake/table.png">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/shock/table.png">
 
 Error is based on a modified 1-norm with user supplied weighting vector. For example, a [1,1,1,1] weighting vector would mean four points of interest, each equally weighted. Meanwhile [2,1,1,1] would mean that the first point of interest is twice as important as any of the other individual points.
 
@@ -43,7 +43,7 @@ Error is based on a modified 1-norm with user supplied weighting vector. For exa
 
 ### Validation Method
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/shake/validation.png">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/shock/validation.png">
 
 1. Use a 8-DOF spring mass system (6 translation, 2 rotation) to as validation model. The center of masses of M1, M2, M3, and M4 are the points of interest (Figure 3A)
 2. Supply model with a displacement time history to both base inputs, plus a random noise signal to the second base (Figure 3B)
@@ -60,7 +60,7 @@ Error is based on a modified 1-norm with user supplied weighting vector. For exa
 - When weighting with zeroes in all but one entry, e.g. [1-0-0-0], and a uniform unity transfer function are input, this results in algorithm collapsing into Smallwood’s algorithm1 and achieves similar results (with small additional computational error)
 - See Figure 4 for comparison of the results of two error weightings
 
-<img style="float: center;" width=800 src="/docs/assets/archived_projects/shake/results.png">
+<img style="float: center;" width=800 src="/docs/assets/archived_projects/shock/results.png">
 
 ### Future Work
 
