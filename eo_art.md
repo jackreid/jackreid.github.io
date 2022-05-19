@@ -15,7 +15,7 @@ The primary platform I use for manipulating and generating these images is [Goog
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_05_19/Mar_Median_Labeled.png">
 
-Took a week off due to family visiting. This week is showing median decreases (shown in pink-red) in nightlights (yellow) in Ukraine during the first two months of the invasion, using the @NASAEarthData VIIRS VNP46A2 dataset.
+Took a week off due to family visiting. This week is showing median decreases (shown in pink-red) in nightlights (yellow) in Ukraine during the first two months of the invasion compared to pre-invasion, using the @NASAEarthData VIIRS VNP46A2 dataset.
 
 ### Week 48 (2022-05-05): Farm Comparison
 
