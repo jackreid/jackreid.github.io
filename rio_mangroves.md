@@ -10,6 +10,8 @@ Our primary local context experts and points of contact are at the [Instituto Pe
 
 This project began in 2018 and since that time Jack Reid made two multi-week field visits to Rio de Janeiro and Guaratiba in particular.
 
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/classification.png">
+
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/photo1.jpg">
 
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/photo2.jpg">
