@@ -22,8 +22,8 @@ For more information, you can see [the project page](https://www.media.mit.edu/p
 
 <img style="float: center;" width=800 src="/docs/assets/vida/vida.jpg">
 
-<img style="float: center;" width=800 src="/docs/assets/vida/international.jpg">
+<img style="float: center;" width=800 src="/docs/assets/vida/international.png">
 
-<img style="float: center;" width=800 src="/docs/assets/vida/desktop.jpg">
+<img style="float: center;" width=800 src="/docs/assets/vida/desktop.png">
 
-<img style="float: center;" width=800 src="/docs/assets/vida/online.jpg">
+<img style="float: center;" width=800 src="/docs/assets/vida/online.png">
