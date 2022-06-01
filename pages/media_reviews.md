@@ -1,7 +1,7 @@
 # Books and Audio
 
 
-[Podcasts](/pages/media_reviews/podcasts.md)
+[Podcasts](/pages/podcasts.md)
 
 [Non-Fiction Books](/pages/media_review/non-fiction_books.md)
 
