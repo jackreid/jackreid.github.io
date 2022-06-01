@@ -29,7 +29,7 @@ This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and
 
 **Status: Ongoing**
 
-This podcast is essentially Terry Virts talking with whomever he wants about whomever he wants. Being a retired NASA astronaut and ISS Commander, though, many of his thoughts and friends are space-related. While I sometimes skip some of his episodes about other things, his deeply human interviews with scientists and executives are quite enjoyable. In particular, his ongoing tour of the solar system with Dr. James Head is informative, funny, and all the more enjoyable due to its frequent detours.
+This podcast is essentially Terry Virts talking with whomever he wants about whatever he wants. Being a retired NASA astronaut and ISS Commander, though, many of his thoughts and friends are space-related. While I sometimes skip some of his episodes about other topics, his deeply human interviews with scientists and executives are quite enjoyable. In particular, his ongoing tour of the solar system with Dr. James Head is informative, funny, and all the more better due to its frequent detours.
 
 ## The Evening Rocket
 
