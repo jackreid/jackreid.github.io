@@ -57,7 +57,9 @@ This is perhaps the most wholesome podcast on this list. The host, Emma Doughty 
 
 [<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/orbital_path.jpeg">](https://exchange.prx.org/series/34664-orbital-path)
 
-**Status: Ongoing**
+**Status: Concluded**
+
+Sadly no longer airing, this podcast was an excellent series on NASA astronomy. While my work tends to look down rather than up, it was a joy hearing about all the groundbreaking work being done to learn more about our solar system, galaxy, and universe.
 
 ## Press the Button
 
@@ -65,11 +67,15 @@ This is perhaps the most wholesome podcast on this list. The host, Emma Doughty 
 
 **Status: Ongoing**
 
+Another not strictly space-related podcast, Press the Button is all about nuclear weapons. We can't have sustainability on Earth if we don't have an Earth, can we? The hosts have a very polished format of brief news updates and engaging interviews with experts. I think they have found just the right balance of technical detail, empathetic humanity, and political advocacy, always pushing for nuclear disarmament but not letting their hopes blind them to reality.
+
 ## The Space Above Us
 
 [<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_above_us.png">](http://thespaceabove.us/)
 
 **Status: Ongoing**
+
+
 
 ## Space and Things
 [<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_things.jpg">](https://spaceandthingspodcast.com/)
