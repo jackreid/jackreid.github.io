@@ -1,6 +1,6 @@
-[*Return to Books and Audio](https://jackbreid.com/pages/archived_projects.html)
+[*Return to Books and Audio*](https://jackbreid.com/pages/archived_projects.html)
 
-# Podcasts of Interest
+# Podcasts on Space, Mapping, and Sustainability
 
 *Last Updated 2022-06-01*
 
@@ -116,7 +116,7 @@ Interview-based podcast that is heavy on the inspiration aspects of space. Scien
 
 **Status: Hiatus?**
 
-The audience for this podcast is admittedly pretty niche, even if I personally wish that it was much bigger. Even though host Cassandra Steer has the opportunity to phone it in, considering she is the only real podcaster in this domain, she really puts together an excellent, well produced podcast that is very accessible. It also isn't US-centric, which is a real marvel! My only complaint is that it appears to be on hiatus at the moment, with no updates recently.
+The audience for this podcast is admittedly pretty niche, even if I personally wish that it was much bigger. This means that host Cassandra Steer has the opportunity to phone it in, considering she is the only real podcaster in this domain, but instead she really puts together an excellent, well produced podcast that is very accessible. It also isn't US-centric, which is a real marvel! My only complaint is that it appears to be on hiatus at the moment, with no updates recently.
 
 ## Space to Grow
 
