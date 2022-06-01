@@ -1,6 +1,6 @@
-[*Return to Archived Projects](/pages/archived_projects.md)
-
 # Non-Thermal Plasma
+
+[*Return to Archived Projects](/pages/archived_projects.md)
 
 Over the course of my undergraduate, I worked on a number of different research projects for different groups ([see the CV page for a complete list](/docs/assets/resume.pdf)). The group that I spent the most time with and ultimately wrote my senior thesis in, was [Prof. David Staack's](https://engineering.tamu.edu/mechanical/profiles/staack-david.html) [Plasma Engineering Diagnostics Laboratory](https://plasma.tamu.edu/) (PEDL). Over the course of a couple of years, I worked on four different projects, all of which involved the generation of non-thermal (i.e. made by electricity rather than heat) plasma, often using dielectric barrier discharge jets. One of these projects was for the US Army Research Lab and falls under ITAR restrictions, so thus I don't talk about it here. I can say that is was an extension of the work described in [this paper](https://iopscience.iop.org/article/10.1088/0022-3727/44/27/274005/). The other three projects are described below.
 
