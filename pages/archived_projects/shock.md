@@ -1,6 +1,6 @@
 # Development of a Single-Input Multiple-Output Optimization Method for Matching Shock Response Spectrums with a Set of Decaying Sines
 
-[*Return to Archived Projects](/pages/archived_projects.md)
+[*Return to Archived Projects](https://jackbreid.com/pages/archived_projects.html)
 
 *Summer 2015*
 
