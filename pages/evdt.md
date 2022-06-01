@@ -1,4 +1,4 @@
-# Vida Decision Support System for COVID-19
+# The EVDT Framework
 
 *Spring 2019 to Present*
 
