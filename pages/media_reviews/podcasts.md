@@ -1,3 +1,5 @@
+[*Return to Books and Audio*](/pages/media_reviews.md)
+
 # Podcasts of Interest
 
 *Last Updated 2022-06-01*
@@ -11,17 +13,14 @@ Perhaps due to being raised on NPR, I am a big fan of podcasts, as they are ofte
 
 ## Constellations
 
-<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/.png">
 
 
 ## Down to Earth with Terry Virts
 
-<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/.png">
 
 
 ## The Evening Rocket
 
-<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/.png">
 
 
 ## Eyes on Earth
