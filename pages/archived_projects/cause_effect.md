@@ -1,4 +1,6 @@
-# Assessing AND Mitigating Vulnerability Chains IN Model-Centric Acquisition Programs
+[*Return to Archived Projects*](/pages/archived_projects.md)
+
+# Assessing And Mitigating Vulnerability Chains In Model-Centric Acquisition Programs
 
 During my masters program at MIT, I worked under [Dr. Donna Rhodes](https://systems.mit.edu/team/donna-rhodes/) at the [Systems Engineering Advancement Researched Initiative](Systems Engineering Advancement Research Initiative) (SEARri). This group, as the name suggests, focused on systems engineering, with particular focus on the defense, aerospace, and marine industries. My thesis work focused on assessing vulnerabilities in model-centric acquisition programs. An associated conference presentation is [available here](/docs/assets/archived_projects/cause_effect/NPS_Presentation_2018_05_04.pdf) and the thesis itself is available on [MIT's DSpace archive](https://dspace.mit.edu/handle/1721.1/117789).
 
