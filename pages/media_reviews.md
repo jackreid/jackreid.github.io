@@ -1,33 +1,22 @@
-# Howdy!
+# Books and Audio
 
-I'm a multidisciplinary researcher who draws from remote observation, systems engineering, and philosophy to try and make this world of ours a little bit better and more sustainable.
 
-At the moment, I am a doctoral student at the [MIT Media Lab](https://www.media.mit.edu/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). I've bounced around a number of fields and institutions to end up here, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
+[Podcasts](/pages/media_reviews/podcasts.md)
 
-## Social Media Links
+[Non-Fiction Books](/pages/media_review/non-fiction_books.md)
 
-Here's the various social media platforms that I am on. Note that I don't check all of these regularly, so if you want a quick response, I recommend email.
+Obviously not all the books and audio that I consume are related to my field of study. I currently don't have any particular interest in post reviews of literally everything that I read or listen to, but I am also happy to share the list for those who are curious. Below are links to lists of books that I have read in each calendar year. Note that I adopted my current system for tracking these ([Obsidian](https://obsidian.md/)) in 2021 and have only been recording them in any fashion since late 2015. I've been able to document some books retroactively, but they should be understood to be *very* incomplete. Apologies for the weird color scheme. It's the product of the Obsidian Markdown to PDF conversion process.
 
-- [Twitter](https://twitter.com/jack_b_reid)
-- [Instagram](https://www.instagram.com/jack.b.reid/)
-- [LinkedIn](https://www.linkedin.com/in/jack-reid-67461351)
-
-## Projects
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_doctoral_process.png">](/pages/doctoral_process.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_vida.png">](/pages/vida.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_evdt.png">](/pages/evdt.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_rio_mangroves.jpg">](/pages/rio_mangroves.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_madagascar_flooding.png">](/pages/madagascar_flooding.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_space_sustainability.png">](/pages/space_sustainability.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_eo_art.png">](/pages/eo_art.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_misc_vis.png">](/pages/misc_vis.md)
-
-[<img style="float: center;" width=800 src="/docs/assets/banner_archived_projects.jpg">](/pages/archived_projects.md)
+- [2022 (in progress)](/docs/assets/media_reviews/2022.pdf)
+- [2021](/docs/assets/media_reviews/2021.pdf)
+- [2020](/docs/assets/media_reviews/2020.pdf)
+- [2019](/docs/assets/media_reviews/2019.pdf)
+- [2018](/docs/assets/media_reviews/2018.pdf)
+- [2017](/docs/assets/media_reviews/2017.pdf)
+- [2016](/docs/assets/media_reviews/2016.pdf)
+- [2015](/docs/assets/media_reviews/2015.pdf)
+- [2014](/docs/assets/media_reviews/2014.pdf)
+- [2013](/docs/assets/media_reviews/2013.pdf)
+- [2012](/docs/assets/media_reviews/2012.pdf)
+- [2011](/docs/assets/media_reviews/2011.pdf)
+- [Childhood (1993 through 2010)](/docs/assets/media_reviews/Childhood.pdf)
