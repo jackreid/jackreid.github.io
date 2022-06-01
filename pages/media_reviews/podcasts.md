@@ -114,11 +114,13 @@ Interview-based podcast that is heavy on the inspiration aspects of space. Scien
 
 **Status: Hiatus?**
 
-
+The audience for this podcast is admittedly pretty niche, even if I personally wish that it was much bigger. Even though host Cassandra Steer has the opportunity to phone it in, considering she is the only real podcaster in this domain, she really puts together an excellent, well produced podcast that is very accessible. It also isn't US-centric, which is a real marvel! My only complaint is that it appears to be on hiatus at the moment, with no updates recently.
 
 ## Space to Grow
 
 [<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_grow.jpeg">](https://marketscale.com/shows/space-to-grow/)
+
+Produced by orbital debris removal company Astroscale, this interview-based podcast is probably the most sustainability-oriented space podcast around. They also do an excellent job of linking in art and fiction to help make the whole situation more approachable.
 
 **Status: Ongoing**
 
@@ -127,3 +129,5 @@ Interview-based podcast that is heavy on the inspiration aspects of space. Scien
 [<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/war_space.jpg">](https://rusi.org/podcast-series/war-in-space-podcasts)
 
 **Status: Ongoing**
+
+Another non-US centric podcast, War in Space is, as the title suggests, all about the potential weaponization of space. Unlike something like Press the Button, War in Space has closer ties to the military, particularly the UK and US militaries. It ain't exactly anti-war but it still takes a very measured and responsible approach to the topic and tries to steer us a way from ruining the space environment.
