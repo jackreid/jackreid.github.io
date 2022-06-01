@@ -6,7 +6,7 @@ Perhaps due to being raised on NPR, I am a big fan of podcasts, as they are ofte
 
 ## The Arms Control Wonk Podcast
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/arms_control_wonk.png">](https://www.armscontrolwonk.com/archive/author/podcast/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/arms_control_wonk.png">](https://www.armscontrolwonk.com/archive/author/podcast/)
 
 **Status: Ongoing**
 
@@ -14,7 +14,7 @@ This one isn't strictly space-related, but, like it or not, space is heavily int
 
 ## Constellations
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/constellations.jpg">](https://www.kratosdefense.com/constellations-podcast/episodes)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/constellations.jpg">](https://www.kratosdefense.com/constellations-podcast/episodes)
 
 **Status: Ongoing**
 
@@ -23,7 +23,7 @@ This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and
 
 ## Down to Earth with Terry Virts
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/down_to_earth.jpeg">](https://www.terryvirts.com/podcast)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/down_to_earth.jpeg">](https://www.terryvirts.com/podcast)
 
 **Status: Ongoing**
 
@@ -31,7 +31,7 @@ This podcast is essentially Terry Virts talking with whomever he wants about who
 
 ## The Evening Rocket
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/evening_rocket.png">](https://www.pushkin.fm/podcasts/elon-musk-the-evening-rocket)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/evening_rocket.png">](https://www.pushkin.fm/podcasts/elon-musk-the-evening-rocket)
 
 **Status: Concluded**
 
@@ -39,7 +39,7 @@ Host Jill Lepore is an excellent historian of ideas and pop culture. In this lim
 
 ## Eyes on Earth
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/eyes_on_earth.jpg">](https://www.usgs.gov/centers/eros/eyes-earth)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/eyes_on_earth.jpg">](https://www.usgs.gov/centers/eros/eyes-earth)
 
 **Status: Ongoing**
 
@@ -47,7 +47,7 @@ Did you know that the USGS has a podcast? And that's its really good? Eyes on Ea
 
 ## Gardeners of the Galaxy
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/gardeners_galaxy.jpg">](https://theunconventionalgardener.com/gardeners-of-the-galaxy/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/gardeners_galaxy.jpg">](https://theunconventionalgardener.com/gardeners-of-the-galaxy/)
 
 **Status: Ongoing**
 
@@ -55,15 +55,15 @@ This is perhaps the most wholesome podcast on this list. The host, Emma Doughty 
 
 ## The Mapscaping Podcast
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/mapscaping.jpg">](https://mapscaping.com/podcasts/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/mapscaping.jpg">](https://mapscaping.com/podcasts/)
 
 **Status: Ongoing**
 
-
+Probably the premier GIS podcast out there, in my opinion. In addition to bringing excellent guests on from across the (very diverse) geospatial industry, the host does an excellent job of bringing thoughts and projects down to an accessible level. Not just so that a listener can think, "Okay, I understand this" but to the extent that the listener feels empowered enough that they think, "I can go do this myself." If you want inspiration and ideas, this is the podcast for that.
 
 ## Orbital Path
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/orbital_path.jpeg">](https://exchange.prx.org/series/34664-orbital-path)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/orbital_path.jpeg">](https://exchange.prx.org/series/34664-orbital-path)
 
 **Status: Concluded**
 
@@ -71,7 +71,7 @@ Sadly no longer airing, this podcast was an excellent series on NASA astronomy. 
 
 ## Press the Button
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/press_the_button.png">](https://ploughshares.org/pressthebutton)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/press_the_button.png">](https://ploughshares.org/pressthebutton)
 
 **Status: Ongoing**
 
@@ -79,45 +79,51 @@ Another not strictly space-related podcast, Press the Button is all about nuclea
 
 ## The Space Above Us
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_above_us.png">](http://thespaceabove.us/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_above_us.png">](http://thespaceabove.us/)
 
 **Status: Ongoing**
 
 This podcast is a very straightforward: a play-by-play of NASA human spaceflight from Mercury up through the end of the space shuttle, with typically one episode per flight. As someone who was born well after the Mercury-Gemini-Apollo era, this was a great way to get a feel for the development process over time and how each mission led into and impact the next. It's also a great way to realize just how many shuttle missions there were!
 
 ## Space and Things
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_things.jpg">](https://spaceandthingspodcast.com/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_things.jpg">](https://spaceandthingspodcast.com/)
 
 **Status: Ongoing**
 
-
+News, interviews, and jokes from around the space community. What more can you ask for? Plus some of the most detailed shownotes around.
 
 ## Space Boffins
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_boffins.jpg">](https://www.thenakedscientists.com/podcasts/astronomy-podcasts/space-boffins)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_boffins.jpg">](https://www.thenakedscientists.com/podcasts/astronomy-podcasts/space-boffins)
 
 **Status: Ongoing**
+
+Not dissimilar to Space and Things, this podcast is straightforward good space journalism. Pleasantly enough, the space community is a busy enough place that the two podcasts are rarely if ever redundant with one another.
 
 ## Space Cafe
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_cafe.jpeg">](https://spacewatch.global/2022/05/the-space-cafe-podcast-055-moriba-jah-privateer-clean-up-minds-to-clean-up-space/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_cafe.jpeg">](https://spacewatch.global/2022/05/the-space-cafe-podcast-055-moriba-jah-privateer-clean-up-minds-to-clean-up-space/)
 
 **Status: Ongoing**
+
+Interview-based podcast that is heavy on the inspiration aspects of space. Scientists, government officials, artists, the guests on this podcast have got it all.
 
 ## Space Law
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space-law.jpg">](https://inspace.anu.edu.au/news/space-law-podcast)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space-law.jpg">](https://inspace.anu.edu.au/news/space-law-podcast)
 
-**Status: Ongoing**
+**Status: Hiatus?**
+
+
 
 ## Space to Grow
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/space_grow.jpeg">](https://marketscale.com/shows/space-to-grow/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_grow.jpeg">](https://marketscale.com/shows/space-to-grow/)
 
 **Status: Ongoing**
 
 ## War in Space
 
-[<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/war_space.jpg">](https://rusi.org/podcast-series/war-in-space-podcasts)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/war_space.jpg">](https://rusi.org/podcast-series/war-in-space-podcasts)
 
 **Status: Ongoing**
