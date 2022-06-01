@@ -8,15 +8,17 @@ Perhaps due to being raised on NPR, I am a big fan of podcasts, as they are ofte
 
 ## The Arms Control Wonk Podcast
 
-<img style="float: left;" width=100 src="/docs/assets/media_reviews/podcasts/arms_control_wonk.png">
+[<img style="float: center;" width=100 src="/docs/assets/media_reviews/podcasts/arms_control_wonk.png">](https://www.armscontrolwonk.com/archive/author/podcast/)
 
 
 ## Constellations
 
+[<img style="float: center;" width=100 src="/docs/assets/media_reviews/podcasts/constellations.jpg">](https://www.kratosdefense.com/constellations-podcast/episodes)
 
 
 ## Down to Earth with Terry Virts
 
+[<img style="float: center;" width=100 src="/docs/assets/media_reviews/podcasts/down_to_earth.jpeg">](https://www.terryvirts.com/podcast)
 
 
 ## The Evening Rocket
