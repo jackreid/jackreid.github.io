@@ -1,6 +1,6 @@
 # Digital Twins & Digital System Models: Non-Technical Challenges & Research Needs
 
-[*Return to Archived Projects](/pages/archived_projects.md)
+[*Return to Archived Projects](https://jackbreid.com/pages/archived_projects.html)
 
 *Spring 2016*
 

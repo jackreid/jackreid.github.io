@@ -1,6 +1,6 @@
 # Assessing And Mitigating Vulnerability Chains In Model-Centric Acquisition Programs
 
-[*Return to Archived Projects*](/pages/archived_projects.md)
+[*Return to Archived Projects*](https://jackbreid.com/pages/archived_projects.html)
 
 *Spring 2017 - Spring 2018*
 
