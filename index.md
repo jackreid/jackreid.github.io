@@ -32,4 +32,4 @@ Here's the various social media platforms that I am on. Note that I don't check 
 
 [<img style="float: center;" width=800 src="/docs/assets/banner_archived_projects.jpg">](/pages/archived_projects.md)
 
-[*(Placeholder image for Books & Audio)*](/pages/media_reviews.md)
+[<img style="float: center;" width=800 src="/docs/assets/banner_media_reviews.jpg">](/pages/media_reviews.md)

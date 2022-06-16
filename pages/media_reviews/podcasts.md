@@ -2,7 +2,7 @@
 
 # Podcasts on Space, Mapping, and Sustainability
 
-*Last Updated 2022-06-01*
+*Last Updated 2022-06-16*
 
 Perhaps due to being raised on NPR, I am a big fan of podcasts, as they are often NPR-esque stories for a *much* more niche audience. Below are listed some of my favorite space, sustainability, and mapping podcasts. Ordering is alphabetical, not in terms of preference or anything. If you know of one I might be interested in, don't hesitate to reach out!
 
@@ -22,6 +22,15 @@ This one isn't strictly space-related, but, like it or not, space is heavily int
 
 This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and is unabashedly pro-military and pro-private-business. Perhaps because of this, the host is able to interview a wide variety of big names from the space sector, be it startups, the major space companies, or military officials. If you want to stay up to date on trends in the military and commercial space sectors, it's hard to do better than this.
 
+## Dongfang Hour Podcast
+
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/dongfang.png">](https://dongfanghour.com/)
+
+The Dongfang Hour is the best source I have come across for detailed and non-fearmongering news about China's space sector. Their podcast is similarly excellent, digging into news releases, technical specs, and possible interpretations. It can be difficult to follow all the acronyms if you aren't already familiar with them, but hey, that's true for most laypeople when they start learning about the US space sector too.
+
+**Status: Ongoing**
+
+This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and is unabashedly pro-military and pro-private-business. Perhaps because of this, the host is able to interview a wide variety of big names from the space sector, be it startups, the major space companies, or military officials. If you want to stay up to date on trends in the military and commercial space sectors, it's hard to do better than this.
 
 ## Down to Earth with Terry Virts
 
