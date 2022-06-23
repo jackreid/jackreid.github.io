@@ -10,7 +10,13 @@ I post these images on social media, namely [Twitter](https://twitter.com/jack_b
 
 The primary platform I use for manipulating and generating these images is [Google Earth Engine](https://earthengine.google.com/). You can access the scripts for [each weekly project here](https://code.earthengine.google.com/?accept_repo=users/jackreid/art) (apologies for the lack of comments and overall terrible organization, but this ain't exactly a professional endeavor). Note that some of the assets that I used my not have permissions set properly, so if you can't get anything to run, just reach out via email or twitter. Some of the pieces also involve some python scripts run on my laptop. I haven't organized these into any repository yet. If that's important to you, reach out and I can move that up my list of priorities.
 
-### Week 51=2 (2022-06-09): Grand Canyon
+### Week 53 (2022-06-23): Red Sedona Timelapse
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_23/sedona_timelapse_732_1.gif">
+
+A mockup of a human settlement on Mars? Nope! Just Sedona, Arizona with the reds heightened just a bit! Using @USGSLandsat.
+
+
+### Week 52 (2022-06-09): Grand Canyon
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_09/vhe.png">
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_09/edges.png">
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_09/ded.png">
