@@ -10,6 +10,17 @@ I post these images on social media, namely [Twitter](https://twitter.com/jack_b
 
 The primary platform I use for manipulating and generating these images is [Google Earth Engine](https://earthengine.google.com/). You can access the scripts for [each weekly project here](https://code.earthengine.google.com/?accept_repo=users/jackreid/art) (apologies for the lack of comments and overall terrible organization, but this ain't exactly a professional endeavor). Note that some of the assets that I used my not have permissions set properly, so if you can't get anything to run, just reach out via email or twitter. Some of the pieces also involve some python scripts run on my laptop. I haven't organized these into any repository yet. If that's important to you, reach out and I can move that up my list of priorities.
 
+### Week 54 (2022-06-23): 1m DEM Edge Detection in DC
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_12/dc_edges.png">
+
+In commemoration of the #GRADcaucus launch and @Space_Leaders events on the Hill tomorrow, here is some edge detection on the new 1m DEM in ##EarthEngine, showing DC.
+
+Thanks to @giswqs & @Exopixelist for flagging the new dataset!
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_12/dc_blues.png">
+
+I also liked this cloudy view of the area east of the Hill to the river.
+
 ### Week 53 (2022-06-23): Red Sedona Timelapse
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_23/sedona_timelapse_732_1.gif">
 
