@@ -15,9 +15,9 @@ The primary platform I use for manipulating and generating these images is [Goog
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/vv_021_2s.png">
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/vv_012_2s.png">
 
-It's been a weird month but I'm back at it now. This image shows changes in the Betsiboka River Delta region of Madagascar from 2015 to 2022 using Sentinel-1.
+It's been an off month but I'm back at it. These images show changes in the Betsiboka River Delta region of Madagascar 2015-2022 using Sentinel-1.
 
-Inspired by the shutting down by Sentinel 1-B and NASA's Earth Science Applications Week.
+Inspired by the shutting down by @CopernicusEU #Sentinel1 B & @NASAEarth Earth Science Applications Week.
 
 <img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/ratio_2s.png">
 
