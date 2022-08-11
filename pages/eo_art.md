@@ -10,14 +10,28 @@ I post these images on social media, namely [Twitter](https://twitter.com/jack_b
 
 The primary platform I use for manipulating and generating these images is [Google Earth Engine](https://earthengine.google.com/). You can access the scripts for [each weekly project here](https://code.earthengine.google.com/?accept_repo=users/jackreid/art) (apologies for the lack of comments and overall terrible organization, but this ain't exactly a professional endeavor). Note that some of the assets that I used my not have permissions set properly, so if you can't get anything to run, just reach out via email or twitter. Some of the pieces also involve some python scripts run on my laptop. I haven't organized these into any repository yet. If that's important to you, reach out and I can move that up my list of priorities.
 
-### Week 54 (2022-06-23): 1m DEM Edge Detection in DC
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_12/dc_edges.png">
+### Week 55 (2022-08-11): SAR Changes in Madagascar
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/vv_021_2s.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/vv_012_2s.png">
+
+It's been a weird month but I'm back at it now. This image shows changes in the Betsiboka River Delta region of Madagascar from 2015 to 2022 using Sentinel-1.
+
+Inspired by the shutting down by Sentinel 1-B and NASA's Earth Science Applications Week.
+
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_08_11/ratio_2s.png">
+
+Also really liked this patterning on the water when using a different band visualization.
+
+
+### Week 54 (2022-07-12): 1m DEM Edge Detection in DC
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_07_12/dc_edges.png">
 
 In commemoration of the #GRADcaucus launch and @Space_Leaders events on the Hill tomorrow, here is some edge detection on the new 1m DEM in ##EarthEngine, showing DC.
 
 Thanks to @giswqs & @Exopixelist for flagging the new dataset!
 
-<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_06_12/dc_blues.png">
+<img style="float: center;" width=800 src="/docs/assets/eo_art/2022_07_12/dc_blues.png">
 
 I also liked this cloudy view of the area east of the Hill to the river.
 
