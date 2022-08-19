@@ -1,6 +1,14 @@
-## Miscellaneous Writings
+## Miscellaneous Writings & Interviews
 
 While most of my work is focused on specific projects on Earth, I can't help but have thoughts about other topics, including our present society and our potential future in space. Sometimes these thoughts manifest in a coherent piece and are collected here.
+
+### The Mapscaping Podcast: How To Keep Your Satellite Pointing At Earth
+
+*Originally published on the Mapscaping Podcast in August 2022*
+
+After I responded to a question of his on Twitter, host Daniel O'Donohue invited me on for a discussion of how satellites manage attidue determination and control.
+
+Available: [https://mapscaping.com/podcast/how-to-keep-your-satellite-pointing-at-earth/](https://mapscaping.com/podcast/how-to-keep-your-satellite-pointing-at-earth/)
 
 ### Move to close MIT campus to larger community contributes to the cold security of the ivory tower
 
@@ -26,3 +34,10 @@ This was a piece originally intended for the [Science Policy Review](https://sci
 
 [Available here](/docs/assets/space_sustainability/SPI-SPR_Article_Draft_I_submission.pdf)
 
+### The Engineering Commons Podcast: Existential Engineer
+
+*Originally published on The Engineering Commons podcast in July 2015*
+
+In one of their early episodes, the hosts of this podcast dicussed engineering ethics and specifically mentioned the engineering ethics class at Texas A&M, which I had recently taken. After I wrote in with some comments and a personal perspective on the course, they invited me on for a dicussion of engineering ethics and Samuel Florman's book "The Existential Pleasures of Engineering."
+
+Available: [https://theengineeringcommons.com/episode-87-existential-engineer/](https://theengineeringcommons.com/episode-87-existential-engineer/)
