@@ -1,4 +1,4 @@
-# The EVDT Framework
+# The Vida Decision Support System
 
 *May 2020 to March 2022*
 
