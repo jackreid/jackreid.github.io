@@ -2,7 +2,7 @@
 
 My doctoral dissertation centers on exploring the efficacy and difficulties of collaboratively developing a systems-architecture-informed, multidisciplinary GIS decision support system for sustainable development applications that makes significant use of remote observation. That's a real mouthful, ain't it? Well hopefully some of the following resources can start to explain what that this actually means.
 
-Many of the [my other projects](index.md) are components of my doctoral work, particularly [EVDT](/pages/evdt.md) and [Vida](/pages/vida.md). Those respective pages have more details, but this page is largely focused on the doctoral process itself.
+Many of the [my other projects](index.md) are components of my doctoral work, particularly [EVDT](/pages/evdt.html) and [Vida](/pages/vida.html). Those respective pages have more details, but this page is largely focused on the doctoral process itself.
 
 ### Overview of the MAS Graduate Degree Process
 
@@ -10,7 +10,7 @@ While the institution is called the MIT Media Lab, the actual associated academi
 
 <img style="float: center;" width=800 src="/docs/assets/doctoral_process/mas_process.png">
 
-Almost all MAS students start as Masters students and then, after completing that degree, move onto the PhD process. Since I had already completed [two masters programs at MIT](/pages/archived_projects/cause_effect.md), I was allowed to petition to skip the MAS masters, thus those steps being grayed out. If you want more details on the masters steps, I suggest you take a look at the [Media Lab website](https://www.media.mit.edu/posts/mas-degree-and-course-requirements/).
+Almost all MAS students start as Masters students and then, after completing that degree, move onto the PhD process. Since I had already completed [two masters programs at MIT](/pages/archived_projects/cause_effect.html), I was allowed to petition to skip the MAS masters, thus those steps being grayed out. If you want more details on the masters steps, I suggest you take a look at the [Media Lab website](https://www.media.mit.edu/posts/mas-degree-and-course-requirements/).
 
 ### Doctoral Proseminar
 
