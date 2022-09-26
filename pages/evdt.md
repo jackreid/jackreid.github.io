@@ -16,11 +16,16 @@ To elaborate further upon Item 3, an EVDT DSS integrates four models into one to
 
 The motivation for combining so many variables from different disciplines stems from both push and pull factors. The push factors are the simple increase in availability of data, as has already been described, along with the increase in the interoperability of the variables (which this work itself is trying to contribute to). The primary pull factor is our increased understanding of - and appreciation for - the complex relationships between these domains, relationships that were previously ignored in analyses.
 
-Current implementation projects of the EVDT Framework include [Vida](/pages/vida.md), [Rio de Janeiro Mangroves & Communities](/pages/rio_mangroves.md), and a number of others by some of my peers in Space Enabled. For more information, you can see [the project page](https://www.media.mit.edu/projects/vida-decision-support-system/overview/), [my doctoral work project page](/pages/doctoral_process.md), and the following publications:
+Current implementation projects of the EVDT Framework include [Vida](/pages/vida), [Rio de Janeiro Mangroves & Communities](/pages/rio_mangroves), and a number of others by some of my peers in Space Enabled. For more information, you can see [the project page](https://www.media.mit.edu/projects/vida-decision-support-system/overview/), [my doctoral work project page](/pages/doctoral_process), and the following publications:
 
+
+- [2022 Paper on the use of systems engineering for sustainabe development](https://doi.org/10.1002/sys.21642)
+- 2022 IAC
+  - [Paper](/docs/assets/evdt/2022_IAC.pdf)
+  - [Presentation](/docs/assets/evdt/2022IACPresentation.pdf)
 - 2020 ASCEND
   - [Paper](/docs/assets/vida/AIAA_ASCEND_2020_Paper.pdf)
   - [Presentation](/docs/assets/vida/ASCEND_Presentation.pdf)
 - 2019 IEEE Aerospace
-  - [Paper](/docs/assets/vida/2019_IEEE_Aerospace.pdf)
-  - [Presentation](/docs/assets/vida/IEEEAerospacePresentation.pdf)
+  - [Paper](/docs/assets/evdt/2019_IEEE_Aerospace.pdf)
+  - [Presentation](/docs/assets/evdt/IEEEAerospacePresentation.pdf)
