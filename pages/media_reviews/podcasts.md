@@ -136,7 +136,7 @@ Produced by orbital debris removal company Astroscale, this interview-based podc
 
 ## TerraWatch Space
 
-[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/terrawatch.jpeg">](https://terrawatchspace.com/)
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/TerraWatch.jpeg">](https://terrawatchspace.com/)
 
 **Status: Ongoing**
 
