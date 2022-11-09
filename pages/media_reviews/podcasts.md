@@ -2,7 +2,7 @@
 
 # Podcasts on Space, Mapping, and Sustainability
 
-*Last Updated 2022-06-16*
+*Last Updated 2022-11-09*
 
 Perhaps due to being raised on NPR, I am a big fan of podcasts, as they are often NPR-esque stories for a *much* more niche audience. Below are listed some of my favorite space, sustainability, and mapping podcasts. Ordering is alphabetical, not in terms of preference or anything. If you know of one I might be interested in, don't hesitate to reach out!
 
@@ -26,11 +26,10 @@ This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and
 
 [<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/dongfang.png">](https://dongfanghour.com/)
 
+**Status: Seems to be on indefinite hiatus**
+
 The Dongfang Hour is the best source I have come across for detailed and non-fearmongering news about China's space sector. Their podcast is similarly excellent, digging into news releases, technical specs, and possible interpretations. It can be difficult to follow all the acronyms if you aren't already familiar with them, but hey, that's true for most laypeople when they start learning about the US space sector too.
 
-**Status: Ongoing**
-
-This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and is unabashedly pro-military and pro-private-business. Perhaps because of this, the host is able to interview a wide variety of big names from the space sector, be it startups, the major space companies, or military officials. If you want to stay up to date on trends in the military and commercial space sectors, it's hard to do better than this.
 
 ## Down to Earth with Terry Virts
 
@@ -38,7 +37,7 @@ This podcast is produced by [Kratos Defense](https://www.kratosdefense.com/) and
 
 **Status: Ongoing**
 
-This podcast is essentially Terry Virts talking with whomever he wants about whatever he wants. Being a retired NASA astronaut and ISS Commander, though, many of his thoughts and friends are space-related. While I sometimes skip some of his episodes about other topics, his deeply human interviews with scientists and executives are quite enjoyable. In particular, his ongoing tour of the solar system with Dr. James Head is informative, funny, and all the more better due to its frequent detours.
+This podcast is essentially Terry Virts talking with whomever he wants about whatever he wants. Being a retired NASA astronaut and ISS Commander, though, many of his thoughts and friends are space-related. While I sometimes skip the episodes about other topics, his deeply human interviews with scientists and executives are quite enjoyable. In particular, his ongoing tour of the solar system with Dr. James Head is informative, funny, and all the better due to its frequent detours.
 
 ## The Evening Rocket
 
@@ -109,7 +108,7 @@ News, interviews, and jokes from around the space community. What more can you a
 
 **Status: Ongoing**
 
-Not dissimilar to Space and Things, this podcast is straightforward good space journalism. Pleasantly enough, the space community is a busy enough place that the two podcasts are rarely if ever redundant with one another.
+Not dissimilar to Space and Things, this podcast is straightforward good space journalism. Pleasantly enough, the space community is a busy enough place that these two podcasts are rarely if ever redundant with one another.
 
 ## Space Cafe
 
@@ -131,9 +130,18 @@ The audience for this podcast is admittedly pretty niche, even if I personally w
 
 [<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/space_grow.jpeg">](https://marketscale.com/shows/space-to-grow/)
 
+**Status: Ongoing**
+
 Produced by orbital debris removal company Astroscale, this interview-based podcast is probably the most sustainability-oriented space podcast around. They also do an excellent job of linking in art and fiction to help make the whole situation more approachable.
 
+## TerraWatch Space
+
+[<img style="float: center;" width=200 src="/docs/assets/media_reviews/podcasts/terrawatch.jpeg">](https://terrawatchspace.com/)
+
 **Status: Ongoing**
+
+This podcast is honestly the best critical approach to earth observation around. I don't mean critical as negative, but instead as analytical and willing to make judgments. Where most podcasts are about current news, this one is very much about considering the different paths the future might take (and offering an opinion on which ones are most viable). The host Aravind is transparent with what he thinks the industry is doing right and what he thinks it is doing wrong, which I greatly appreciate.
+
 
 ## War in Space
 
