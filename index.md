@@ -11,6 +11,7 @@ Here's the various social media platforms that I am on. Note that I don't check 
 - [Twitter](https://twitter.com/jack_b_reid)
 - [Instagram](https://www.instagram.com/jack.b.reid/)
 - [LinkedIn](https://www.linkedin.com/in/jack-reid-67461351)
+- [Mastodon](https://mastodon.mit.edu/@jackreid)
 
 ## Projects
 
