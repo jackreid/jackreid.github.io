@@ -64,7 +64,7 @@ One of the key components of a thesis proposal is the research questions/deliver
 
 *Spring 2023*
 
-For the past year, I have been writing the actual dissertation/thesis (they are used interchangeably). The defense will be happening shortly. The slides that I am planning on using are below and the draft thesis is [available here](/docs/assets/doctoral_process/thesis.pdf).
+For the past year, I have been writing the actual dissertation/thesis (they are used interchangeably). The defense will be happening shortly. The slides that I am planning on using are below and the draft thesis is [available here](https://drive.google.com/file/d/1KelW4IO8XfGCbZCGcXo8XVUA53OA6cHG/view?usp=share_link).
 
 
-[<img style="float: center;" width=800 src="/docs/assets/doctoral_process/thesis_defense_presentation.png">](/docs/assets/doctoral_process/Thesis_Defense_Presentation_website.pdf)
+[<img style="float: center;" width=800 src="/docs/assets/doctoral_process/thesis_defense_presentation.png">](https://drive.google.com/file/d/1Ey_A2thsLACRhvP2cReNoLkt6O8onqrJ/view?usp=share_link)
