@@ -52,7 +52,7 @@ Sometimes the General Exam Committee may require that additional work is require
 
 *Winter 2021/2022*
 
-With the General Exams out of the way, the next step in the PhD process is to clearly develop a proposal for the dissertation work and to present it to one's thesis committee and to the Media Lab as a whole. This involves both a written document of variable length and a presentation. My written proposal is [available here](/docs/assets/assets.pdf) (green text indicates some later revisions). It should be pretty clear how my General Exams directly fed into this piece. Similarly, the presentation slides were developed out of the oral component of my General Exams.
+With the General Exams out of the way, the next step in the PhD process is to clearly develop a proposal for the dissertation work and to present it to one's thesis committee and to the Media Lab as a whole. This involves both a written document of variable length and a presentation. My written proposal is [available here](/docs/assets/doctoral_process/proposal.pdf) (green text indicates some later revisions). It should be pretty clear how my General Exams directly fed into this piece. Similarly, the presentation slides were developed out of the oral component of my General Exams.
 
 [<img style="float: center;" width=800 src="/docs/assets/doctoral_process/doctoral_blurb.png">](/docs/assets/doctoral_process/Proposal_Critique_Presentation.pdf)
 
@@ -62,4 +62,9 @@ One of the key components of a thesis proposal is the research questions/deliver
 
 ### Doctoral Thesis & Defense
 
-*Still to come*
+*Spring 2023*
+
+For the past year, I have been writing the actual dissertation/thesis (they are used interchangeably). The defense will be happening shortly. The slides that I am planning on using are below and the draft thesis is [available here](/docs/assets/doctoral_process/thesis.pdf).
+
+
+[<img style="float: center;" width=800 src="/docs/assets/doctoral_process/thesis_defense_presentation.png">](/docs/assets/doctoral_process/Thesis_Defense_Presentation_website.pdf)
