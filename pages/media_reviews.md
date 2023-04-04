@@ -12,7 +12,7 @@ Obviously not all the books and audio that I consume are related to my field of 
 
 The links below are just PDFs with a somewhat difficult to read color scheme (sorry!). Unfortunately my Obsidian vault contains plenty of stuff that shouldn't be publicly shared (such as the addresses of friends, personal notes, etc.) and there's no easy way for me to sanitize that and make it publicly available. 
 
-- [2023](/docs/assets/media_reviews/2023.pdf) (in progress)
+- [2023](/docs/assets/media_reviews/2023.pdf) - in progress
 - [2022](/docs/assets/media_reviews/2022.pdf)
 - [2021](/docs/assets/media_reviews/2021.pdf)
 - [2020](/docs/assets/media_reviews/2020.pdf)

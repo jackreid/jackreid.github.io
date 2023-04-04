@@ -8,9 +8,9 @@ This project involves tracking mangrove health in the Rio de Janeiro (you can se
 
 Our primary local context experts and points of contact are at the [Instituto Pereira Passos](http://www.rio.rj.gov.br/web/ipp/exibeconteudo?id=7060209) (IPP), which is the municipal data agency, and [ESPAÇO](http://www.espaco.igeo.ufrj.br/), a research group at the Universidade Federal do Rio de Janeiro (UFRJ) who study various coastal ecosystems in Brazil and elsewhere and who are also familiar with examining socioeconomic impacts of environmental phenomena. The latter can also be considered to be Technical Area Experts. Other Local Context Experts include a member of a local fisher association and government officials at the municipal urban development agency and the municipal environmental agency Additional Technical Area Experts include two ecosystem services economists (one from the University of West Virginia and one from [Resources for the Future](https://www.rff.org/)) and arguably the committee members for my thesis. The primary intended users for this case study are government officials at the IPP who have a fair amount of experience with mapping. Future projects in this area would ideally expand that userbase to non-government individuals.
 
-This project began in 2018 and since that time Jack Reid made two multi-week field visits to Rio de Janeiro and Guaratiba in particular.
+This project began in 2018 and since that time Jack Reid made two multi-week field visits to Rio de Janeiro and Guaratiba in particular. For more details, see the [doctoral process page](https://jackbreid.com/pages/doctoral_process.html).
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/classification.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/extent_method.png">
 
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/photo1.jpg">
 
@@ -18,6 +18,17 @@ This project began in 2018 and since that time Jack Reid made two multi-week fie
 
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/photo3.jpg">
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/health.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/evdt-dss-flow.png">
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/flowchart.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/extent-changes.png">
+
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/mean-anomaly-map.png">
+
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/mean-anomaly-map.png">
+
+
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/planning_zones_and_protected_areas.png">
+
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/rio-dss-simulation.png">
+
+
