@@ -20,12 +20,13 @@ This project began in 2018 and since that time Jack Reid made two multi-week fie
 
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/evdt-dss-flow.png">
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/extent-changes.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/extent_method.png">
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/mean-anomaly-map.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/extent_changes.png">
 
-<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/mean-anomaly-map.png">
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/mean-anomaly_map.png">
 
+<img style="float: center;" width=800 src="/docs/assets/rio_mangroves/carbon_density.png">
 
 <img style="float: center;" width=800 src="/docs/assets/rio_mangroves/planning_zones_and_protected_areas.png">
 
