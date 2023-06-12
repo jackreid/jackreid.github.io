@@ -2,7 +2,14 @@
 
 I'm a multidisciplinary researcher who draws from remote observation, systems engineering, and philosophy to try and make this world of ours a little bit better and more sustainable.
 
-At the moment, I am a doctoral student at the [MIT Media Lab](https://www.media.mit.edu/people/jackreid/overview/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). I've bounced around a number of fields and institutions to end up here, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
+In June 2023, I completed my PhD at the [MIT Media Lab](https://www.media.mit.edu/people/jackreid/overview/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). So I guess that means that I'm now Dr. Reid, but don't call me that as it's my father's name. I've bounced around a number of fields and institutions to end up where I am, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
+
+## Consulting, Employent Offers, and Other Requests
+
+I am available for consulting work on science and technology policy issues, with a particular focus on open science, environmental justice, and earth observation. I currently have two such projects underway and hope to share more about those on this website soon. 
+
+If you have any projects you would like help with or even an offer of full-time employment, send me an email at jack.b.reid@gmail.com
+
 
 ## Social Media Links
 

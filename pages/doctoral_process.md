@@ -1,6 +1,6 @@
 ## My Doctoral Process
 
-My doctoral dissertation centers on exploring the efficacy and difficulties of collaboratively developing a systems-architecture-informed, multidisciplinary GIS decision support system for sustainable development applications that makes significant use of remote observation. That's a real mouthful, ain't it? Well hopefully some of the following resources can start to explain what that this actually means.
+My doctoral dissertation centered on exploring the efficacy and difficulties of collaboratively developing a systems-architecture-informed, multidisciplinary GIS decision support system for sustainable development applications that makes significant use of remote observation. That's a real mouthful, ain't it? Well hopefully some of the following resources can start to explain what that this actually means.
 
 Many of the [my other projects](index.md) are components of my doctoral work, particularly [EVDT](/pages/evdt.html) and [Vida](/pages/vida.html). Those respective pages have more details, but this page is largely focused on the doctoral process itself.
 
@@ -64,7 +64,7 @@ One of the key components of a thesis proposal is the research questions/deliver
 
 *Spring 2023*
 
-For the past year, I have been writing the actual dissertation/thesis (they are used interchangeably). The defense will be happening shortly. The slides that I am planning on using are below and the draft thesis is [available here](https://drive.google.com/file/d/1KelW4IO8XfGCbZCGcXo8XVUA53OA6cHG/view?usp=share_link).
+For the past year, I have been writing the actual dissertation/thesis (they are used interchangeably). The defense occurred in April 2023 and the thesis was signed in May 2023. The slides that I used for the defense are below and the final thesis itself is [available here](https://drive.google.com/file/d/1KelW4IO8XfGCbZCGcXo8XVUA53OA6cHG/view?usp=share_link).
 
 
 [<img style="float: center;" width=800 src="/docs/assets/doctoral_process/thesis_defense_presentation.png">](https://drive.google.com/file/d/1Ey_A2thsLACRhvP2cReNoLkt6O8onqrJ/view?usp=share_link)
