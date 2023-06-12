@@ -8,7 +8,7 @@ In June 2023, I completed my PhD at the [MIT Media Lab](https://www.media.mit.ed
 
 I am available for consulting work on science and technology policy issues, with a particular focus on open science, environmental justice, and earth observation. I currently have two such projects underway and hope to share more about those on this website soon. 
 
-If you have any projects you would like help with or even an offer of full-time employment, send me an email at jack.b.reid@gmail.com
+If you have any projects you would like help with or even an offer of full-time employment, send me an email at <jack@jackbreid.com>.
 
 
 ## Social Media Links
