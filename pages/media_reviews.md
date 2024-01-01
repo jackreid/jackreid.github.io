@@ -10,9 +10,9 @@ Both for work and for pleasure, I consume a great deal of media, primarily writt
 
 Obviously not all the books and audio that I consume are related to my field of study. I currently don't have any particular interest in posting reviews of literally everything that I read or listen to, but I am also happy to share the list for those who are curious. Below are links to lists of books that I have read in each calendar year. Note that I adopted my current system for tracking these ([Obsidian](https://obsidian.md/)) in 2021 and have only been recording them in any fashion since late 2015. I've been able to document some books retroactively, but they should be understood to be *very* incomplete, the more so the further back one goes. 
 
-The links below are just PDFs with a somewhat difficult to read color scheme (sorry!). Unfortunately my Obsidian vault contains plenty of stuff that shouldn't be publicly shared (such as the addresses of friends, personal notes, etc.) and there's no easy way for me to sanitize that and make it publicly available. 
+The links below are just PDFs (sorry!). Unfortunately my Obsidian vault contains plenty of stuff that shouldn't be publicly shared (such as the addresses of friends, personal notes, etc.) and there's no easy way for me to sanitize that and make it publicly available. 
 
-- [2023](/docs/assets/media_reviews/2023.pdf) - in progress
+- [2023](/docs/assets/media_reviews/2023.pdf)
 - [2022](/docs/assets/media_reviews/2022.pdf)
 - [2021](/docs/assets/media_reviews/2021.pdf)
 - [2020](/docs/assets/media_reviews/2020.pdf)
