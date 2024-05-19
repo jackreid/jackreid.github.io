@@ -4,12 +4,9 @@ I'm a multidisciplinary researcher who draws from remote observation, systems en
 
 In June 2023, I completed my PhD at the [MIT Media Lab](https://www.media.mit.edu/people/jackreid/overview/), in the [Space Enabled Research Group](https://www.media.mit.edu/groups/space-enabled/overview/). So I guess that means that I'm now Dr. Reid, but don't call me that as it's my father's name. I've bounced around a number of fields and institutions to end up where I am, so if you want the full history, check out [the CV page](/docs/assets/resume.pdf).
 
-## Consulting, Employent Offers, and Other Requests
+## What do I do now?
 
-I am available for consulting work on science and technology policy issues, with a particular focus on open science, environmental justice, and earth observation. I currently have two such projects underway and hope to share more about those on this website soon. 
-
-If you have any projects you would like help with or even an offer of full-time employment, send me an email at <jack@jackbreid.com>.
-
+I currently am working as an engineer on the Science, Technology Assessment, and Analytics (STAA) team at the Government Accountability Office (GAO). The GAO has been around for more than a century, working directly for Congress to audit federal government programs and figure out how they can be improved. The STAA team is much newer, just a few years old, and rather than being focused on audits, we develop rigorous and reliable reports for Congress on the state of technologies and their policy relevance. Outside of that, I also support and expand GAO's geospatial data analytics capability, including introducing the use of satellite imagery into the audit process for the first time, and provide technical advice and review for audit teams on issues pertaining to environmental justice and aerospace engineering.
 
 ## Social Media Links
 
