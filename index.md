@@ -12,7 +12,7 @@ I currently am working as an engineer on the Science, Technology Assessment, and
 
 Here's the various social media platforms that I am on. Note that I don't check all of these regularly, so if you want a quick response, I recommend email.
 
-- [Bluesku](https://bsky.app/profile/jackbreid.bsky.social)
+- [Bluesky](https://bsky.app/profile/jackbreid.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/jack-reid-67461351)
 
 ## Projects
